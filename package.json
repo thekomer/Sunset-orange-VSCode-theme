@@ -1,0 +1,22 @@
+{
+  "name": "sunset-orange-dark",
+  "displayName": "Sunset orange Dark",
+  "description": "VSCode dark theme compatible with Sunset orange GTK theme (based on Github dark original VSCode theme)",
+  "version": "1.0.0",
+  "publisher": "thekomer",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sunset orange Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sunset orange Dark-color-theme.json"
+      }
+    ]
+  }
+}
