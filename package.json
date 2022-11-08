@@ -4,6 +4,17 @@
   "description": "VSCode dark theme compatible with Sunset orange GTK theme (based on Github dark original VSCode theme)",
   "version": "1.0.0",
   "publisher": "thekomer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thekomer/Sunset-orange-VSCode-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "thekomer",
+    "komer",
+    "sunset orange dark"
+  ],
   "engines": {
     "vscode": "^1.73.0"
   },
