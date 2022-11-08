@@ -10,4 +10,4 @@ Will be maintaining this as I have time, thanks for your understanding! 😇
 
 ## Screenshots
 
-![Window screenshot]()
+![Window screenshot](https://raw.githubusercontent.com/thekomer/Sunset-orange-VSCode-theme/master/media/Screenshot.png)
