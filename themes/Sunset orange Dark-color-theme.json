@@ -42,7 +42,7 @@
 		"diffEditor.removedTextBackground": "#da36334d",
 		"dropdown.background": "#06080d",
 		"dropdown.border": "#30363d60",
-		"dropdown.foreground": "#c9d1d9",
+		"dropdown.foreground": "#b9bec9",
 		"dropdown.listBackground": "#06080d",
 		"editor.background": "#0e111d",
 		"editor.findMatchBackground": "#9e6a03",
@@ -371,7 +371,7 @@
 		//"editorUnnecessaryCode.opacity": "#000000aa",
 		//"editorWarning.foreground": "#cca700",
 		//"editorWidget.border": "#454545",
-		//"editorWidget.foreground": "#c9d1d9",
+		"editorWidget.foreground": "#b9bec9",
 		//"extensionBadge.remoteBackground": "#ff6a00",
 		//"extensionBadge.remoteForeground": "#f0f6fc",
 		//"extensionButton.background": "#238636",
@@ -457,7 +457,7 @@
 		//"listFilterWidget.outline": "#00000000",
 		//"listFilterWidget.shadow": "#0000005c",
 		//"menu.background": "#06080d",
-		//"menu.foreground": "#c9d1d9",
+		//"menu.foreground": "#b9bec9",
 		//"menu.selectionBackground": "#6e768166",
 		//"menu.selectionForeground": "#c9d1d9",
 		//"menu.separatorBackground": "#606060",
@@ -510,10 +510,10 @@
 		"notebookScrollbarSlider.background": "#6e768133",
 		"notebookScrollbarSlider.hoverBackground": "#ff6a0033",
 		//"notebookStatusErrorIcon.foreground": "#f85149",
-		//"notebookStatusRunningIcon.foreground": "#c9d1d9",
+		//"notebookStatusRunningIcon.foreground": "#b9bec9",
 		//"notebookStatusSuccessIcon.foreground": "#89d185",
 		//"notificationLink.foreground": "#58a6ff",
-		//"panel.dropBorder": "#c9d1d9",
+		//"panel.dropBorder": "#b9bec9",
 		//"panelSection.border": "#30363d",
 		//"panelSection.dropBackground": "#53595d80",
 		//"panelSectionHeader.background": "#80808033",
@@ -531,7 +531,7 @@
 		//"problemsInfoIcon.foreground": "#3794ff",
 		//"problemsWarningIcon.foreground": "#cca700",
 		//"quickInputList.focusBackground": "#6e768166",
-		//"quickInputList.focusForeground": "#c9d1d9",
+		//"quickInputList.focusForeground": "#b9bec9",
 		//"quickInputTitle.background": "#ffffff1b",
 		//"sash.hoverBorder": "#ff6a00",
 		//"scm.providerBorder": "#454545",
@@ -744,7 +744,7 @@
 				"meta.embedded.expression"
 			],
 			"settings": {
-				"foreground": "#C9D1D9"
+				"foreground": "#b9bec9"
 			}
 		},
 		{
