@@ -605,7 +605,7 @@
 		//"testing.peekHeaderBackground": "#f14c4c1a",
 		//"testing.runAction": "#73c991",
 		//"toolbar.activeBackground": "#63666750",
-		//"toolbar.hoverBackground": "#5a5d5e50",
+		"toolbar.hoverBackground": "#BFC3CD29",
 		//"tree.tableColumnsBorder": "#cccccc20",
 		//"tree.tableOddRowsBackground": "#c9d1d90a",
 		//"welcomePage.progress.background": "#0e111d",
