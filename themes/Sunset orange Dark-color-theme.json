@@ -464,7 +464,7 @@
 		//"menu.selectionForeground": "#c9d1d9",
 		"menu.selectionForeground": "#ffffff",
 		//"menu.separatorBackground": "#606060",
-		"menu.separatorBackground": "#60606060"
+		"menu.separatorBackground": "#60606060",
 		//"menubar.selectionBackground": "#5a5d5e50",
 		"menubar.selectionBackground": "#0E111D",
 		//"menubar.selectionForeground": "#8b949e",
