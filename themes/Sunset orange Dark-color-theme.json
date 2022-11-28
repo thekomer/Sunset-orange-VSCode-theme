@@ -101,7 +101,6 @@
 		"input.foreground": "#c9d1d9",
 		"input.placeholderForeground": "#484f58",
 		"keybindingLabel.foreground": "#c9d1d9",
-		//"list.activeSelectionBackground": "#6e76812a",
 		"list.activeSelectionBackground": "#6e76812a",
 		"list.activeSelectionForeground": "#c9d1d9",
 		"list.focusBackground": "#388bfd26",
