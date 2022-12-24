@@ -144,7 +144,7 @@
 		"notificationCenterHeader.foreground": "#8b949e",
 		"notifications.background": "#06080d",
 		"notifications.border": "#BFC3CD30",
-		"notifications.foreground": "#c9d1d9",
+		"notifications.foreground": "#b9bec9",
 		"notificationsErrorIcon.foreground": "#ff0000",
 		"notificationsInfoIcon.foreground": "#58a6ff",
 		"notificationsWarningIcon.foreground": "#d29922",
