@@ -206,7 +206,7 @@
 		"statusBar.noFolderBackground": "#0e111d",
 		"statusBarItem.activeBackground": "#c9d1d91f",
 		"statusBarItem.focusBorder": "#ff6a0080",
-		"statusBarItem.hoverBackground": "#c9d1d914",
+		"statusBarItem.hoverBackground": "#BFC3CD24",
 		"statusBarItem.prominentBackground": "#ff6a0080",
 		"statusBarItem.remoteBackground": "#131727",
 		"statusBarItem.remoteForeground": "#ffffff",
@@ -248,7 +248,7 @@
 		"tab.activeForeground": "#c9d1d9",
 		"tab.border": "#30363d60",
 		"tab.hoverBackground": "#0e111d",
-		"tab.inactiveBackground": "#06080d", //komer - hmmmm ... maybe edit
+		"tab.inactiveBackground": "#06080d", //komer - ... maybe edit
 		"tab.inactiveForeground": "#b9bec9aa",
 		"tab.unfocusedActiveBorder": "#0e111d60",
 		"tab.unfocusedActiveBorderTop": "#30363d60",
