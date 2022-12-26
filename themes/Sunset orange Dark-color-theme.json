@@ -291,6 +291,8 @@
 		"welcomePage.progress.foreground": "#ff6a00",
 		"welcomePage.tileBackground": "#06080d80",
 		"welcomePage.tileHoverBackground": "#ffffff05",
+		"window.activeBorder": "#ff6a0060",
+		"window.inactiveBorder": "#30363d60",
 		//"activityBar.dropBorder": "#c9d1d9",
 		//"activityBarItem.settingsProfilesBackground": "#15192b",
 		//"activityBarItem.settingsProfilesForeground": "#8b949e",
@@ -695,9 +697,7 @@
 		//"terminalCursor.background": null,
 		//"testing.message.info.lineBackground": null,
 		//"toolbar.hoverOutline": null,
-		//"walkThrough.embeddedEditorBackground": null,
-		//"window.activeBorder": null,
-		//"window.inactiveBorder": null
+		//"walkThrough.embeddedEditorBackground": null
 	},
 	"tokenColors": [
 		{
