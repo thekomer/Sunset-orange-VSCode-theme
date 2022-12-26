@@ -275,7 +275,7 @@
 		"textBlockQuote.background": "#06080d",
 		"textBlockQuote.border": "#30363d60",
 		"textCodeBlock.background": "#6e76812a",
-		"textLink.activeForeground": "#bc8cff",
+		"textLink.activeForeground": "#68b6ff",
 		"textLink.foreground": "#58a6ff",
 		"textPreformat.foreground": "#8b949e",
 		"textSeparator.foreground": "#21262d",
