@@ -185,7 +185,7 @@
 		"settings.rowHoverBackground": "#ffffff03",
 		"settings.sashBorder": "#30363d60",
 		"settings.textInputBackground": "#131727",
-		"settings.textInputBorder": "#131727",
+		"settings.textInputBorder": "#bfc3cd15", //"#131727",
 		"settings.textInputForeground": "#c9d1d9",
 		"sideBar.background": "#06080d",
 		"sideBar.border": "#30363d60",
