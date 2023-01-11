@@ -1,9 +1,13 @@
 # Change Log
 
-All notable changes to the "sunset-orange-dark" extension will be documented in this file.
+## [Published]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+All notable changes to the "sunset-orange-dark" extension will be documented on Github.
 
-## [Unreleased]
+- Check [Github commit list](https://github.com/thekomer/Sunset-orange-VSCode-theme/commits/master) for more information.
 
-- Initial release
+## [Latest changes]
+
+- Improvement: make sidebar item header more prominent
+
+- latest changelog inside extension detales page
