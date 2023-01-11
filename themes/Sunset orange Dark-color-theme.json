@@ -196,7 +196,7 @@
 		"sideBarSectionHeader.background": "#06080d",
 		"sideBarSectionHeader.border": "#30363d60",
 		"sideBarSectionHeader.foreground": "#BFC3CD",
-		"sideBarTitle.foreground": "#BFC3CD",
+		"sideBarTitle.foreground": "#ff6a00",
 		"sideBySideEditor.horizontalBorder": "#30363d80",
 		"sideBySideEditor.verticalBorder": "#30363d80",
 		"statusBar.background": "#06080d",
