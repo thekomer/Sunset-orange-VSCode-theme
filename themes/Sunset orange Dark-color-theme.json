@@ -1,4 +1,4 @@
-{
+{ // todo: command palete highlight color
 	"name": "Sunset orange Dark",
 	"colors": {
 		"activityBar.activeBorder": "#ff6a00",
@@ -158,10 +158,11 @@
 		"panelTitle.activeBorder": "#ff6a00",
 		"panelTitle.activeForeground": "#b9bec9",
 		"panelTitle.inactiveForeground": "#b9bec999",
+		"peekView.border": "#ff6a00",
 		"peekViewEditor.background": "#6e76811a",
-		"peekViewEditor.matchHighlightBackground": "#bb800966",
+		"peekViewEditor.matchHighlightBackground": "#ff6a0066",
 		"peekViewResult.background": "#0e111d",
-		"peekViewResult.matchHighlightBackground": "#bb800966",
+		"peekViewResult.matchHighlightBackground": "#ff6a0066",
 		"pickerGroup.border": "#ff6a0040",
 		"pickerGroup.foreground": "#8b949e",
 		"progressBar.background": "#ff6a00",
@@ -549,7 +550,6 @@
 		//"panelSection.border": "#30363d",
 		//"panelSection.dropBackground": "#53595d80",
 		//"panelSectionHeader.background": "#80808033",
-		//"peekView.border": "#3794ff",
 		//"peekViewEditorGutter.background": "#6e76811a",
 		//"peekViewResult.fileForeground": "#ffffff",
 		//"peekViewResult.lineForeground": "#bbbbbb",
@@ -559,8 +559,8 @@
 		//"peekViewTitleDescription.foreground": "#ccccccb3",
 		//"peekViewTitleLabel.foreground": "#ffffff",
 		//"ports.iconRunningProcessForeground": "#30363d",
-		//"problemsErrorIcon.foreground": "#f14c4c",
-		//"problemsInfoIcon.foreground": "#3794ff",
+		//"problemsErrorIcon.foreground": "#ff3333",
+		//"problemsInfoIcon.foreground":"#3794ff",
 		//"problemsWarningIcon.foreground": "#cca700",
 		//"quickInputList.focusBackground": "#6e76812a",
 		//"quickInputList.focusForeground": "#b9bec9",
