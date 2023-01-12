@@ -545,7 +545,7 @@
 		//"notebookStatusErrorIcon.foreground": "#f85149",
 		//"notebookStatusRunningIcon.foreground": "#b9bec9",
 		//"notebookStatusSuccessIcon.foreground": "#89d185",
-		//"notificationLink.foreground": "#58a6ff", // komer
+		//"notificationLink.foreground": "#58a6ff",
 		//"panelSection.border": "#30363d",
 		//"panelSection.dropBackground": "#53595d80",
 		//"panelSectionHeader.background": "#80808033",
