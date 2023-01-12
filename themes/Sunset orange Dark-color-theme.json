@@ -296,7 +296,7 @@
 		"welcomePage.tileHoverBackground": "#ffffff05",
 		"window.activeBorder": "#ff6a0060",
 		"window.inactiveBorder": "#30363d60",
-		//"activityBar.dropBorder": "#c9d1d9",
+		"activityBar.dropBorder": "#bfc3cd",
 		//"activityBarItem.settingsProfilesBackground": "#15192b",
 		//"activityBarItem.settingsProfilesForeground": "#8b949e",
 		//"activityBarItem.settingsProfilesHoverForeground": "#c9d1d9",
