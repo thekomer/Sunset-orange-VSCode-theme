@@ -1,4 +1,5 @@
 { // todo: command palete highlight color
+	// todo: commented orange color -> uncomment
 	"name": "Sunset orange Dark",
 	"colors": {
 		"activityBar.activeBorder": "#ff6a00",
@@ -95,7 +96,6 @@
 		"editorLineNumber.activeForeground": "#c9d1d9",
 		"editorLineNumber.foreground": "#6e7681",
 		"editorOverviewRuler.border": "#06080d60",
-
 		"editorSuggestWidget.background": "#06080d",
 		"editorSuggestWidget.border": "#ff6a0040",
 		"editorSuggestWidget.focusHighlightForeground": "#ff6a00",
@@ -104,7 +104,6 @@
 		"editorSuggestWidget.selectedBackground": "#BFC3CD10",
 		"editorSuggestWidget.selectedForeground": "#ffffff",
 		"editorSuggestWidgetStatus.foreground": "#c9d1d980",
-
 		"editorWhitespace.foreground": "#484f58",
 		"editorWidget.background": "#06080d",
 		"editorWidget.foreground": "#b9bec9",
@@ -280,6 +279,7 @@
 		"terminal.ansiYellow": "#d29922",
 		"terminal.background": "#0E111D",
 		"terminal.foreground": "#BFC3CD",
+		"terminal.tab.activeBorder": "#ff6a00",
 		"terminalCursor.foreground": "#ff6a00",
 		"textBlockQuote.background": "#06080d",
 		"textBlockQuote.border": "#30363d60",
@@ -598,7 +598,6 @@
 		//"terminal.findMatchHighlightBackground": "#f2cc6080",
 		//"terminal.inactiveSelectionBackground": "#264f7880",
 		//"terminal.selectionBackground": "#264f78",
-		//"terminal.tab.activeBorder": "#0e111d",
 		//"terminalCommandDecoration.defaultBackground": "#ffffff40",
 		//"terminalCommandDecoration.errorBackground": "#f14c4c",
 		//"terminalCommandDecoration.successBackground": "#1b81a8",
@@ -627,7 +626,7 @@
 		//"commandCenter.background": null,
 		//"contrastActiveBorder": null,
 		//"contrastBorder": null,
-		//"debugToolBar.border": null,
+		//"debugToolBar.border": null,  // todo: create border
 		//"diffEditor.border": null,
 		//"diffEditor.insertedTextBorder": null,
 		//"diffEditor.removedTextBorder": null,
