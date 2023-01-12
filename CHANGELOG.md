@@ -13,3 +13,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - latest changelog inside extension details page
 
 - Improvement: activity bar & panel move-drop border color
+
+- Improvement: list highlight color -> theme color
