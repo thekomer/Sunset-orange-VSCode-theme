@@ -153,6 +153,7 @@
 		"notificationsWarningIcon.foreground": "#d29922",
 		"panel.background": "#06080d",
 		"panel.border": "#30363d60",
+		"panel.dropBorder": "#bfc3cd",
 		"panelInput.border": "#30363d60",
 		"panelTitle.activeBorder": "#ff6a00",
 		"panelTitle.activeForeground": "#b9bec9",
@@ -544,8 +545,7 @@
 		//"notebookStatusErrorIcon.foreground": "#f85149",
 		//"notebookStatusRunningIcon.foreground": "#b9bec9",
 		//"notebookStatusSuccessIcon.foreground": "#89d185",
-		//"notificationLink.foreground": "#58a6ff",
-		//"panel.dropBorder": "#b9bec9",
+		//"notificationLink.foreground": "#58a6ff", // komer
 		//"panelSection.border": "#30363d",
 		//"panelSection.dropBackground": "#53595d80",
 		//"panelSectionHeader.background": "#80808033",
