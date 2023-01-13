@@ -6,7 +6,7 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 - Check [Github commit list](https://github.com/thekomer/Sunset-orange-VSCode-theme/commits/master) for more information.
 
-## [Latest changes]
+## [Latest 10 changes]
 
 - Improvement: make sidebar item header more prominent
 
@@ -21,3 +21,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: debug toolbar border visible & editor widget toolbar border not colored
 
 - Improvement: selection color changed for better highlighting of all occurrences (+ readme file)
+
+- IMprovement: input background color
