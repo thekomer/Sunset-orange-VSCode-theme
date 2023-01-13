@@ -17,3 +17,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: list highlight color -> theme color
 
 - Improvement: terminal tab active border
+
+- Improvement: debug toolbar border visible & editor widget toolbar border not colored

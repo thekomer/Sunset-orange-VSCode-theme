@@ -1,4 +1,4 @@
-{ // todo: command palete highlight color
+{ //
 	// todo: commented orange color -> uncomment
 	"name": "Sunset orange Dark",
 	"colors": {
@@ -41,6 +41,7 @@
 		"debugTokenExpression.string": "#a5d6ff",
 		"debugTokenExpression.value": "#a5d6ff",
 		"debugToolBar.background": "#06080d",
+		"debugToolBar.border": "#BFC3CD",
 		"descriptionForeground": "#8b949e",
 		"diffEditor.insertedLineBackground": "#23863633",
 		"diffEditor.insertedTextBackground": "#2386364d",
@@ -83,7 +84,7 @@
 		"editorGutter.deletedBackground": "#f8514966",
 		"editorGutter.modifiedBackground": "#bb800966",
 		"editorHoverWidget.background": "#06080d",
-		"editorHoverWidget.border": "#ff6a0040",
+		"editorHoverWidget.border":"#BFC3CD40",
 		"editorHoverWidget.foreground": "#b9bec9",
 		"editorHoverWidget.statusBarBackground": "#06080d",
 		"editorHoverWidget.highlightForeground": "#ff6a00",
@@ -626,7 +627,6 @@
 		//"commandCenter.background": null,
 		//"contrastActiveBorder": null,
 		//"contrastBorder": null,
-		//"debugToolBar.border": null,  // todo: create border
 		//"diffEditor.border": null,
 		//"diffEditor.insertedTextBorder": null,
 		//"diffEditor.removedTextBorder": null,
