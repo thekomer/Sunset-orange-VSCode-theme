@@ -6,7 +6,8 @@ Theme is hugely inspired by [Github Dark Default theme](https://marketplace.visu
 
 If you like this theme and would like to buy me a coffee, you can [Paypal me](https://paypal.me/thekomer)!
 
-Will be maintaining this as I have time, thanks for your understanding! 😇
+Feel free to notify me of any bugs or possible improvements. I'll gladly consider suggestions as time provides.
+I will be maintaining theme as I have time, thanks for your understanding! 😇
 
 ## Screenshots
 
