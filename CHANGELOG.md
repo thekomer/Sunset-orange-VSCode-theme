@@ -8,8 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: make sidebar item header more prominent
-
 - latest changelog inside extension details page
 
 - Improvement: activity bar & panel move-drop border color
