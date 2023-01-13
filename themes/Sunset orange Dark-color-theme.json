@@ -638,7 +638,7 @@
 		//"editor.findMatchHighlightBorder": null,
 		//"editor.findRangeHighlightBorder": null,
 		//"editor.rangeHighlightBorder": null,
-		"editor.selectionForeground": "#ffffff",// null,
+		//"editor.selectionForeground": null,
 		//"editor.selectionHighlightBorder": null,
 		//"editor.snippetFinalTabstopHighlightBackground": null,
 		//"editor.snippetTabstopHighlightBorder": null,
