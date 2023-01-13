@@ -1,5 +1,4 @@
-{ //
-	// todo: commented orange color -> uncomment
+{
 	"name": "Sunset orange Dark",
 	"colors": {
 		"activityBar.activeBorder": "#ff6a00",
@@ -15,7 +14,7 @@
 		"banner.background": "#42281f",
 		"banner.foreground": "#BFC3CD",
 		"banner.iconForeground": "#ffffff",
-		"breadcrumb.activeSelectionForeground": "#8b949e",
+		"breadcrumb.activeSelectionForeground": "#d9e1e9",
 		"breadcrumb.focusForeground": "#c9d1d9",
 		"breadcrumb.foreground": "#8b949e",
 		"breadcrumb.background": "#0e111d",
