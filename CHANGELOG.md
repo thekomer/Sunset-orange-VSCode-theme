@@ -23,3 +23,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: selection color changed for better highlighting of all occurrences (+ readme file)
 
 - IMprovement: input background color
+
+- BUGfix: list background colors inconsistency
