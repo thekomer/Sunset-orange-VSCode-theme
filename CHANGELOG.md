@@ -25,3 +25,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - BUGfix: list background colors inconsistency
 
 - Improvement: breadcrumb active selection fg color
+
+- BUGfix: debug toolbar border
