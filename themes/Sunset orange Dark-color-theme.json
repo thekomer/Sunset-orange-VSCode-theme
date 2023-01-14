@@ -107,7 +107,7 @@
 		"editorWhitespace.foreground": "#484f58",
 		"editorWidget.background": "#06080d",
 		"editorWidget.foreground": "#b9bec9",
-		"editorWidget.border": "#ff6a0040", // todo remvoe orange
+		"editorWidget.border": "#ff6a0040", // todo remove orange
 		"errorForeground": "#f85149",
 		"focusBorder": "#ff6a0080",
 		"foreground": "#c9d1d9",
