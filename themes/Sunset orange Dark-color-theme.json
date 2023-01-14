@@ -40,7 +40,7 @@
 		"debugTokenExpression.string": "#a5d6ff",
 		"debugTokenExpression.value": "#a5d6ff",
 		"debugToolBar.background": "#06080d",
-		"debugToolBar.border": "#BFC3CD40",
+		"debugToolBar.border": "#BFC3CD20",
 		"descriptionForeground": "#8b949e",
 		"diffEditor.insertedLineBackground": "#23863633",
 		"diffEditor.insertedTextBackground": "#2386364d",
