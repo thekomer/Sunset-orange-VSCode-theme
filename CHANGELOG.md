@@ -26,4 +26,4 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 - BUGfix: debug toolbar border
 
-- Improvement: list active selection icon fg color
+- Improvement: list active selection icon & list deemphasized fg color
