@@ -8,8 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: list highlight color -> theme color
-
 - Improvement: terminal tab active border
 
 - Improvement: debug toolbar border visible & editor widget toolbar border not colored
@@ -27,3 +25,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: list active selection icon & list deemphasized fg color
 
 - Improvement: command center colors for theme consistency
+
+- Improvement: disabled fg color for theme consistency
