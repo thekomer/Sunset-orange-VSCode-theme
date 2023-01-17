@@ -35,7 +35,7 @@
 		"commandCenter.inactiveBorder": "#bfc3cd17",
 		"commandCenter.inactiveForeground": "#bfc3cd88",
 		"debugConsole.errorForeground": "#ffa198",
-		"debugConsole.infoForeground": "#8b949e",
+		"debugConsole.infoForeground": "#b9bec9",
 		"debugConsole.sourceForeground": "#e3b341",
 		"debugConsole.warningForeground": "#d29922",
 		"debugConsoleInputIcon.foreground": "#bc8cff",
