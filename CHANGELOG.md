@@ -8,8 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: terminal tab active border
-
 - Improvement: debug toolbar border visible & editor widget toolbar border not colored
 
 - Improvement: selection color changed for better highlighting of all occurrences (+ readme file)
