@@ -27,3 +27,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: disabled fg color for theme consistency
 
 - Improvement: debug console fg color for theme consistency and visibility
+
+- Improvement: some panel colors for better visibility
