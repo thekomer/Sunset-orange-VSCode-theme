@@ -27,11 +27,11 @@
 		"button.secondaryHoverBackground": "#30363d",
 		"checkbox.background": "#131727",
 		"checkbox.border": "#50565d",
-		"commandCenter.activeBackground": "#ffffff10",// "#5a5d5e50",
+		"commandCenter.activeBackground": "#ffffff10", // active = hover(?)
 		"commandCenter.activeForeground": "#bfc3cd",
 		"commandCenter.background": "#0e111d",
 		"commandCenter.border":"#bfc3cd30",
-		"commandCenter.foreground":"#bfc3cddd", // "#8b949e",
+		"commandCenter.foreground":"#bfc3cddd",
 		"commandCenter.inactiveBorder": "#bfc3cd17",
 		"commandCenter.inactiveForeground": "#bfc3cd88",
 		"debugConsole.errorForeground": "#ffa198",
