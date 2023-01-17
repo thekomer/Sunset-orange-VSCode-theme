@@ -8,8 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: activity bar & panel move-drop border color
-
 - Improvement: list highlight color -> theme color
 
 - Improvement: terminal tab active border
@@ -27,3 +25,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - BUGfix: debug toolbar border
 
 - Improvement: list active selection icon & list deemphasized fg color
+
+- Improvement: command center colors for theme consistency
