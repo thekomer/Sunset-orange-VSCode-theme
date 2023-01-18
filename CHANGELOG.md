@@ -27,3 +27,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: some panel colors for better visibility
 
 - Improvement: code coloring (barely visible) contrast/saturation boost
+
+- Improvement: Bracket match highlight color more prominent
