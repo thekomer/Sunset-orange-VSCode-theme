@@ -29,3 +29,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: Line highlight border
 
 - Improvement: editor overview ruler highlight colors
+
+- Improvement: editor sticky scroll background
