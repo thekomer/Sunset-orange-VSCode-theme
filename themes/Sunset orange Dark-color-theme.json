@@ -415,7 +415,7 @@
 		//"editorOverviewRuler.selectionHighlightForeground": "#a0a0a0cc",
 		//"editorOverviewRuler.wordHighlightForeground": "#a0a0a0cc",
 		//"editorOverviewRuler.wordHighlightStrongForeground": "#c0a0c0cc",
-		// "editorPane.background":"#ff0000",// "#0e111d", //todo  editor border, notebook border, panel border
+		//"editorPane.background":"#ff0000",// "#0e111d",
 		//"editorRuler.foreground": "#5a5a5a",
 		//"editorStickyScrollHover.background": "#2a2d2e",
 		//"editorUnicodeHighlight.background": "#bd9b0326",
