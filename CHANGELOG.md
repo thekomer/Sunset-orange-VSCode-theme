@@ -8,10 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: input background color
-
-- BUGfix: list background colors inconsistency
-
 - Improvement: breadcrumb active selection fg color
 
 - BUGfix: debug toolbar border
@@ -31,3 +27,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: Bracket match highlight color more prominent
 
 - Improvement: Line highlight border
+
+- Improvement: editor overview ruler highlight colors
