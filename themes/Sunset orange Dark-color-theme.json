@@ -65,7 +65,7 @@
 		"editor.foldBackground": "#6e76811a",
 		"editor.foreground": "#ced1d9",
 		"editor.lineHighlightBackground": "#131727",
-		"editor.lineHighlightBorder": "#ff6a0010",
+		"editor.lineHighlightBorder": "#ff6a0018",
 		"editor.linkedEditingBackground": "#58a6ff12",
 		"editor.selectionBackground":"#ff6a0040",
 		"editor.selectionHighlightBackground": "#3fb95040",
