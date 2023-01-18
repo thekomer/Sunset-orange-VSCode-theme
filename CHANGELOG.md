@@ -8,8 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: breadcrumb active selection fg color
-
 - BUGfix: debug toolbar border
 
 - Improvement: list active selection icon & list deemphasized fg color
