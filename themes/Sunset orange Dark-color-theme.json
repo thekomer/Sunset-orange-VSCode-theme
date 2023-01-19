@@ -163,6 +163,7 @@
 		"menubar.selectionBackground": "#0E111D",
 		"menubar.selectionForeground": "#ffffff",
 		"minimap.foregroundOpacity": "#000000f0",
+		"minimap.selectionHighlight": "#ff6a00",
 		"minimapSlider.background": "#6e76812a",
 		"minimapSlider.hoverBackground": "#6e768143",
 		"notebookScrollbarSlider.activeBackground": "#BFC3CD44",
@@ -527,8 +528,7 @@
 		//"mergeEditor.conflict.unhandledUnfocused.border": "#ffa6007a",
 		//"mergeEditor.conflictingLines.background": "#ffea0047",
 		//"minimap.errorHighlight": "#ff1212b3",
-		//"minimap.findMatchHighlight": "#d18616",
-		//"minimap.selectionHighlight": "#264f78",
+		//"minimap.findMatchHighlight": "#d18616", // todo findmatch to blue
 		//"minimap.selectionOccurrenceHighlight": "#676767",
 		//"minimap.warningHighlight": "#cca700",
 		//"minimapGutter.addedBackground": "#2ea04366",
