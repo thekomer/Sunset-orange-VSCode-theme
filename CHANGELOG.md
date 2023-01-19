@@ -8,12 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- BUGfix: debug toolbar border
-
-- Improvement: list active selection icon & list deemphasized fg color
-
-- Improvement: command center colors for theme consistency
-
 - Improvement: disabled fg color for theme consistency
 
 - Improvement: debug console fg color for theme consistency and visibility
@@ -31,3 +25,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: editor sticky scroll background
 
 - Improvement: more contrast to borders color
+
+- Improvement: minimap slight fg color and slider color changes
