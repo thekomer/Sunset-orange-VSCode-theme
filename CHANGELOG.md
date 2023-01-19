@@ -27,3 +27,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: more contrast to borders color
 
 - Improvement: minimap slight fg color and slider color changes
+
+- Improvement: scrollbar shadow color

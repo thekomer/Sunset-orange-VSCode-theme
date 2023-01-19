@@ -193,7 +193,7 @@
 		"progressBar.background": "#ff6a00",
 		"quickInput.background": "#06080d",
 		"quickInput.foreground": "#b9bec9",
-		"scrollbar.shadow": "#484f5833",
+		"scrollbar.shadow":"#06080d",// "#484f5833",
 		"scrollbarSlider.activeBackground": "#BFC3CD44",
 		"scrollbarSlider.background": "#6e768133",
 		"scrollbarSlider.hoverBackground": "#BFC3CD33",
@@ -218,7 +218,7 @@
 		"settings.textInputBorder": "#bfc3cd15", //"#131727",
 		"settings.textInputForeground": "#ced1d9",
 		"sideBar.background": "#06080d",
-		"sideBar.border": "#bfc3cd20",//"#30363d60", //todo check
+		"sideBar.border": "#bfc3cd20",
 		"sideBar.dropBackground": "#0E111D30",
 		"sideBar.foreground": "#b9bec9",
 		"sideBarSectionHeader.background": "#06080d",
@@ -506,7 +506,7 @@
 		//"listFilterWidget.background": "#06080d",
 		//"listFilterWidget.noMatchesOutline": "#be1100",
 		//"listFilterWidget.outline": "#00000000",
-		//"listFilterWidget.shadow": "#0000005c",
+		//"listFilterWidget.shadow": "#0000005c", ...
 		//"merge.commonContentBackground": "#60606029",
 		//"merge.commonHeaderBackground": "#60606066",
 		//"merge.currentContentBackground": "#40c8ae33",
@@ -620,7 +620,7 @@
 		//"toolbar.activeBackground": "#63666750",
 		//"tree.tableColumnsBorder": "#cccccc20",
 		//"tree.tableOddRowsBackground": "#ced1d90a",
-		//"welcomePage.tileShadow": "#0000005c",
+		//"welcomePage.tileShadow": "#0000005c", //! property not allowed
 		//"widget.shadow": "#0000005c",
 		//"activityBar.activeBackground": null,
 		//"activityBar.activeFocusBorder": null,
