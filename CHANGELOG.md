@@ -16,13 +16,9 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 - Improvement: code coloring (barely visible) contrast/saturation boost
 
-- Improvement: Bracket match highlight color more prominent
+- Improvement: Bracket match highlight color more prominent $ Line highlight border
 
-- Improvement: Line highlight border
-
-- Improvement: editor overview ruler highlight colors
-
-- Improvement: editor sticky scroll background
+- Improvement: editor overview ruler highlight colors % editor sticky scroll background
 
 - Improvement: more contrast to borders color
 
