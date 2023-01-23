@@ -31,3 +31,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: add the better placeholders auto gen
 
 - BUGfix: Don't underline link text
+
+- BUGfix: settings active header to muted
