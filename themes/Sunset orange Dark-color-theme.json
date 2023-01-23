@@ -211,7 +211,7 @@
 		"settings.focusedRowBackground": "#13172780",
 		"settings.focusedRowBorder": "#ff6a0060",
 		"settings.headerBorder": "#bfc3cd20", // "#30363d60",
-		"settings.headerForeground": "#8c94a6",
+		"settings.headerForeground": "#bfc3cd", // "#8c94a6",
 		"settings.modifiedItemIndicator": "#bb800966",
 		"settings.numberInputBackground": "#131727",
 		"settings.numberInputBorder": "#bfc3cd20", // "#30363d40",
