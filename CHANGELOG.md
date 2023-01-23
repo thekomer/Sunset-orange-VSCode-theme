@@ -8,8 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: disabled fg color for theme consistency
-
 - Improvement: debug console fg color for theme consistency and visibility
 
 - Improvement: some panel colors for better visibility
@@ -27,3 +25,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: scrollbar shadow color & minimap selection highlight
 
 - Improvement: diffEditor colors muted a bit
+
+- Improvement: checkbox colors consistency
