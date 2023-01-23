@@ -29,3 +29,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: checkbox colors consistency
 
 - Improvement: add the better placeholders auto gen
+
+- BUGfix: Don't underline link text
