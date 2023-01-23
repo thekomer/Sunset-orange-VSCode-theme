@@ -27,3 +27,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: diffEditor colors muted a bit
 
 - Improvement: checkbox colors consistency
+
+- Improvement: add the better placeholders auto gen

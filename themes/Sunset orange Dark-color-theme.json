@@ -711,6 +711,15 @@
 			}
 		},
 		{
+      "scope": [
+        "constant.other.placeholder",
+        "constant.character"
+      ],
+      "settings": {
+        "foreground": "#ff837a"
+      }
+    },
+		{
 			"scope": [
 				"constant",
 				"entity.name.constant",
