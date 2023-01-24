@@ -33,3 +33,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - BUGfix: Don't underline link text
 
 - BUGfix: settings active header to muted
+
+- Improvement: bracket highlighter color (for theme consistency)
