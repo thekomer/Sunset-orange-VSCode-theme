@@ -34,4 +34,4 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 - BUGfix: settings active header to muted
 
-- Improvement: bracket highlighter color (for theme consistency)
+- Improvement: bracket highlighter color & line number color (for theme consistency)
