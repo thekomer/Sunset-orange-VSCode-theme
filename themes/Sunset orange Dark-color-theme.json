@@ -183,7 +183,7 @@
 		"notificationsInfoIcon.foreground": "#58a6ff",
 		"notificationsWarningIcon.foreground": "#d29922",
 		"panel.background": "#06080d",
-		"panel.border": "#ff6a0080",// "#bfc3cd20", //"#30363d60",
+		"panel.border": "#ff6a0050",// "#bfc3cd20", //"#30363d60",
 		"panel.dropBorder": "#bfc3cd",
 		"panelInput.border": "#BFC3CD20",
 		"panelTitle.activeBorder": "#ff6a00",
