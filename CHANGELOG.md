@@ -8,8 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: editor overview ruler highlight colors % editor sticky scroll background
-
 - Improvement: more contrast to borders color
 
 - Improvement: minimap slight fg color and slider color changes
@@ -29,3 +27,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: bracket highlighter color & line number color (for theme consistency)
 
 - Improvement:  differentiate editor group borders from regular editor borders (making 'em more prominent)
+
+- Improvement: quick input colors for theme consistency
