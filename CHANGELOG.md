@@ -8,8 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: minimap slight fg color and slider color changes
-
 - Improvement: scrollbar shadow color & minimap selection highlight
 
 - Improvement: diffEditor colors muted a bit
@@ -29,3 +27,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: quick input colors for theme consistency
 
 - Improvement: extension badge colors
+
+- Improvement: panel border for better usability when panel is moved to the side
