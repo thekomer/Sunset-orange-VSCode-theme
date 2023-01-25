@@ -86,7 +86,7 @@
 		"editorBracketMatch.background": "#000000",
 		"editorBracketMatch.border": "#00ff00bb",
 		"editorCursor.foreground": "#ff6a00",
-		"editorGroup.border": "#bfc3cd20", //"#30363d60",
+		"editorGroup.border": "#bfc3cd40",// todo: investigate editor groups
 		"editorGroupHeader.tabsBackground": "#06080d",
 		"editorGroupHeader.tabsBorder": "#bfc3cd20", // "#30363d60",
 		"editorGutter.addedBackground": "#2ea04366",

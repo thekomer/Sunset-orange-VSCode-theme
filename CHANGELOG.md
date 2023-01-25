@@ -8,14 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: debug console fg color for theme consistency and visibility
-
-- Improvement: some panel colors for better visibility
-
-- Improvement: code coloring (barely visible) contrast/saturation boost
-
-- Improvement: Bracket match highlight color more prominent $ Line highlight border
-
 - Improvement: editor overview ruler highlight colors % editor sticky scroll background
 
 - Improvement: more contrast to borders color
@@ -35,3 +27,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - BUGfix: settings active header to muted
 
 - Improvement: bracket highlighter color & line number color (for theme consistency)
+
+- Improvement:  differentiate editor group borders from regular editor borders (making 'em more prominent)
