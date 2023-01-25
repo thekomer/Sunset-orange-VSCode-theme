@@ -28,6 +28,11 @@
         "label": "Sunset orange Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Sunset orange Dark-color-theme.json"
+      },
+      {
+        "label": "Sunset orange Dark neon (beta)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sunset orange Dark-neon-color-theme.json"
       }
     ]
   }
