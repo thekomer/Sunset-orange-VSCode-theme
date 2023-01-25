@@ -86,7 +86,7 @@
 		"editorBracketMatch.background": "#000000",
 		"editorBracketMatch.border": "#00ff00bb",
 		"editorCursor.foreground": "#ff6a00",
-		"editorGroup.border": "#bfc3cd40",// todo: investigate editor groups
+		"editorGroup.border": "#bfc3cd40",
 		"editorGroupHeader.tabsBackground": "#06080d",
 		"editorGroupHeader.tabsBorder": "#bfc3cd20", // "#30363d60",
 		"editorGutter.addedBackground": "#2ea04366",
@@ -127,7 +127,7 @@
 		"editorWhitespace.foreground": "#484f58",
 		"editorWidget.background": "#06080d",
 		"editorWidget.foreground": "#b9bec9",
-		"editorWidget.border": "#ff6a0040", // todo remove orange
+		"editorWidget.border": "#ff6a0040",
 		"errorForeground": "#f85149",
 		"focusBorder": "#ff6a0080",
 		"foreground": "#ced1d9",
@@ -529,7 +529,7 @@
 		//"mergeEditor.conflict.unhandledUnfocused.border": "#ffa6007a",
 		//"mergeEditor.conflictingLines.background": "#ffea0047",
 		//"minimap.errorHighlight": "#ff1212b3",
-		//"minimap.findMatchHighlight": "#d18616", // todo findmatch to blue
+		//"minimap.findMatchHighlight": "#d18616",
 		//"minimap.selectionOccurrenceHighlight": "#676767",
 		//"minimap.warningHighlight": "#cca700",
 		//"minimapGutter.addedBackground": "#2ea04366",
