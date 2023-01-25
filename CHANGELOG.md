@@ -8,8 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: diffEditor colors muted a bit
-
 - Improvement: checkbox colors consistency
 
 - Improvement: add the better placeholders auto gen
@@ -29,3 +27,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: panel border for better usability when panel is moved to the side
 
 - Improvement: statusbar color less in your face when debugging
+
+- Improvement: slightly dim sidebar fg color
