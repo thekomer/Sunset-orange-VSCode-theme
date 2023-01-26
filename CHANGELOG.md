@@ -8,8 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: checkbox colors consistency
-
 - Improvement: add the better placeholders auto gen
 
 - BUGfix: Don't underline link text
@@ -31,3 +29,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: slightly dim sidebar fg color
 
 - Improvement: introducing Neon variant (still beta - it may not stick around)
+
+- BUGfix: neon terminal colors
