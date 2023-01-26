@@ -31,3 +31,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: introducing Neon variant (still beta - it may not stick around)
 
 - BUGfix: neon terminal colors
+
+- BUGfix: spelling & some colors in neon version reverted back
