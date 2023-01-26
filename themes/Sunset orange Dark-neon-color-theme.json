@@ -76,12 +76,12 @@
 		"editor.wordHighlightBorder": "#ffffff21",
 		"editor.wordHighlightStrongBackground": "#ffffff21",
 		"editor.wordHighlightStrongBorder": "#ffffff21",
-		"editorBracketHighlight.foreground1": "#099fff",	//! neon blue #1F51FF
-		"editorBracketHighlight.foreground2": "#56d364", //! neon green #39ff14
-		"editorBracketHighlight.foreground3": "#e3b341",	//! neon yellow #FFF01F
-		"editorBracketHighlight.foreground4": "#ff0099", //! neon orange
-		"editorBracketHighlight.foreground5": "#ff9bce", //!! neon pink #FF10F0
-		"editorBracketHighlight.foreground6": "#cc00ff",	//! neon purple #9D00FF
+		"editorBracketHighlight.foreground1": "#1F51FF",
+		"editorBracketHighlight.foreground2": "#39ff14",
+		"editorBracketHighlight.foreground3": "#FFF01F",
+		"editorBracketHighlight.foreground4": "#FF5F1F",
+		"editorBracketHighlight.foreground5": "#FF10F0",
+		"editorBracketHighlight.foreground6": "#9D00FF",
 		"editorBracketHighlight.unexpectedBracket.foreground": "#8c94a6",
 		"editorBracketMatch.background": "#000000",
 		"editorBracketMatch.border": "#00ff00bb",

@@ -32,4 +32,4 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 - BUGfix: neon terminal colors
 
-- BUGfix: spelling & some colors in neon version reverted back
+- BUGfix: spelling && some colors in neon version reverted back && neon bracket highlight colors
