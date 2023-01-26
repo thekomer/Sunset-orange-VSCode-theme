@@ -8,12 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: add the better placeholders auto gen
-
-- BUGfix: Don't underline link text
-
-- BUGfix: settings active header to muted
-
 - Improvement: bracket highlighter color & line number color (for theme consistency)
 
 - Improvement:  differentiate editor group borders from regular editor borders (making 'em more prominent)
