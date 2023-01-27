@@ -31,3 +31,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: selected text bg color even more prominent
 
 - Improvement: notebook colors overhaul
+
+- Improvement: line number background colors (i.e. editor gutter bg color) for easier side-by-side editing
+- Improvement: more prominent code modification background colors in editor gutter
