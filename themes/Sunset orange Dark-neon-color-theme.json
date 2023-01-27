@@ -355,9 +355,9 @@
 		"welcomePage.tileHoverBackground": "#ffffff05",
 		"window.activeBorder": "#ff6a0060",
 		"window.inactiveBorder": "#30363d60",
-		//"activityBarItem.settingsProfilesBackground": "#15192b", >>> PROPERTY NOT ALLOWED <<<
-		//"activityBarItem.settingsProfilesForeground": "#8c94a6", >>> PROPERTY NOT ALLOWED <<<
-		//"activityBarItem.settingsProfilesHoverForeground": "#ced1d9", >>> PROPERTY NOT ALLOWED <<<
+		//"activityBarItem.settingsProfilesBackground": "#15192b", //! PROPERTY NOT ALLOWED
+		//"activityBarItem.settingsProfilesForeground": "#8c94a6", //! PROPERTY NOT ALLOWED
+		//"activityBarItem.settingsProfilesHoverForeground": "#ced1d9", //! PROPERTY NOT ALLOWED <<<
 		//"button.separator":"#ffffff66",
 		//"charts.blue": "#3794ff",
 		//"charts.foreground": "#ced1d9",
