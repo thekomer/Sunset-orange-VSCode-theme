@@ -8,16 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: bracket highlighter color & line number color (for theme consistency)
-
-- Improvement:  differentiate editor group borders from regular editor borders (making 'em more prominent)
-
-- Improvement: quick input colors for theme consistency
-
-- Improvement: extension badge colors
-
-- Improvement: panel border for better usability when panel is moved to the side
-
 - Improvement: statusbar color less in your face when debugging
 
 - Improvement: slightly dim sidebar fg color
@@ -33,4 +23,7 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: notebook colors overhaul
 
 - Improvement: line number background colors (i.e. editor gutter bg color) for easier side-by-side editing
+
 - Improvement: more prominent code modification background colors in editor gutter
+
+- Improvement: drop (paste) background color when dragging ui elements to be consistent with overall theme color
