@@ -8,8 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: statusbar color less in your face when debugging
-
 - Improvement: slightly dim sidebar fg color
 
 - Improvement: introducing Neon variant (still beta - it may not stick around)
@@ -27,3 +25,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: more prominent code modification background colors in editor gutter
 
 - Improvement: drop (paste) background color when dragging ui elements to be consistent with overall theme color
+
+- Improvement: drop into prompt colors bg/fg contrast
