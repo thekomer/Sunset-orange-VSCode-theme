@@ -8,10 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: slightly dim sidebar fg color
-
-- Improvement: introducing Neon variant (still beta - it may not stick around)
-
 - BUGfix: neon terminal colors
 
 - BUGfix: spelling && some colors in neon version reverted back && neon bracket highlight colors
@@ -27,3 +23,7 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: drop (paste) background color when dragging ui elements to be consistent with overall theme color
 
 - Improvement: drop into prompt colors bg/fg contrast
+
+- improvement: notebook cell borders
+
+- improvement: debug toolbar border & debug statusbar colors
