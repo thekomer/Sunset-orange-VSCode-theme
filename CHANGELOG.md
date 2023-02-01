@@ -8,8 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- BUGfix: neon terminal colors
-
 - BUGfix: spelling && some colors in neon version reverted back && neon bracket highlight colors
 
 - Improvement: selected text bg color even more prominent
@@ -27,3 +25,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - improvement: notebook cell borders
 
 - improvement: debug toolbar border & debug statusbar colors
+
+- Improvement: keybinding table colors
