@@ -364,9 +364,6 @@
 		"welcomePage.tileHoverBackground": "#ffffff05",
 		"window.activeBorder": "#ff6a0060",
 		"window.inactiveBorder": "#30363d60",
-		//"activityBarItem.settingsProfilesBackground": "#15192b", //! PROPERTY NOT ALLOWED
-		//"activityBarItem.settingsProfilesForeground": "#8c94a6", //! PROPERTY NOT ALLOWED
-		//"activityBarItem.settingsProfilesHoverForeground": "#ced1d9", //! PROPERTY NOT ALLOWED <<<
 		//"button.separator":"#ffffff66",
 		//"charts.blue": "#3794ff",
 		//"charts.foreground": "#ced1d9",
@@ -528,7 +525,7 @@
 		//"listFilterWidget.background": "#06080d",
 		//"listFilterWidget.noMatchesOutline": "#be1100",
 		//"listFilterWidget.outline": "#00000000",
-		//"listFilterWidget.shadow": "#0000005c", ...
+		//"listFilterWidget.shadow": "#0000005c",
 		//"merge.commonContentBackground": "#60606029",
 		//"merge.commonHeaderBackground": "#60606066",
 		//"merge.currentContentBackground": "#40c8ae33",
@@ -624,7 +621,6 @@
 		//"toolbar.activeBackground": "#63666750",
 		//"tree.tableColumnsBorder": "#cccccc20",
 		//"tree.tableOddRowsBackground": "#ced1d90a",
-		//"welcomePage.tileShadow": "#0000005c", //! property not allowed
 		//"widget.shadow": "#0000005c",
 		//"activityBar.activeBackground": null,
 		//"activityBar.activeFocusBorder": null,
@@ -696,7 +692,12 @@
 		//"terminalCursor.background": null,
 		//"testing.message.info.lineBackground": null,
 		//"toolbar.hoverOutline": null,
-		//"walkThrough.embeddedEditorBackground": null
+		//"walkThrough.embeddedEditorBackground": null,
+		//! PROPERTY NOT ALLOWED for these:
+		//"activityBarItem.settingsProfilesBackground": "#15192b",
+		//"activityBarItem.settingsProfilesForeground": "#8c94a6",
+		//"activityBarItem.settingsProfilesHoverForeground": "#ced1d9",
+		//"welcomePage.tileShadow": "#0000005c",
 	},
 	"tokenColors": [
 		{
