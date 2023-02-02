@@ -8,8 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: selected text bg color even more prominent
-
 - Improvement: notebook colors overhaul
 
 - Improvement: line number background colors (i.e. editor gutter bg color) for easier side-by-side editing
@@ -27,3 +25,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: keybinding table colors
 
 - Improvements: editor group border less prominent && panel section border color, panel section groups header colors
+
+- Improvement: added difference editor added and removed lines/text borders for accessibility purposes
