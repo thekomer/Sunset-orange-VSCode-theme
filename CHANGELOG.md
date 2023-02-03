@@ -27,3 +27,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: added difference editor added and removed lines/text borders for accessibility purposes
 
 - BUGfix: changing vertical ruler color so as not to be mistaken with border
+
+- Improvement: dropdown list colors
