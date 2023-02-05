@@ -29,3 +29,7 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - BUGfix: changing vertical ruler color so as not to be mistaken with border
 
 - Improvement: dropdown list colors
+
+- Improvement: editor hover highlight to be compatible with theme
+
+- Improvement: editor codelens foreground, editor link active foreground and notification link foreground to be in line with other link colors
