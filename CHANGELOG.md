@@ -37,3 +37,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: GitLens gutter fg/bg color
 
 - BUGfix:  panel section and terminal border tweaks
+
+- Improvement: peekview title fg/bg colors & peekview result list colors (for theme compatibility)
