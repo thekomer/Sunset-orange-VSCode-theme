@@ -38,4 +38,4 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 - BUGfix:  panel section and terminal border tweaks
 
-- Improvement: peekview title fg/bg colors & peekview result list colors (for theme compatibility)
+- Improvement: peekView title fg/bg colors & peekView result list colors (for theme compatibility)
