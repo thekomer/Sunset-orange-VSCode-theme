@@ -33,3 +33,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: editor hover highlight to be compatible with theme
 
 - Improvement: editor codelens foreground, editor link active foreground and notification link foreground to be in line with other link colors
+
+- Improvement: GitLens gutter fg/bg color
