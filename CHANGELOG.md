@@ -39,3 +39,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - BUGfix:  panel section and terminal border tweaks
 
 - Improvement: peekView title fg/bg colors & peekView result list colors (for theme compatibility)
+
+- BUGfix: removing diffeditor line/text borders (complying with styling [guidelines](https://code.visualstudio.com/api/references/theme-color))
