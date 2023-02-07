@@ -524,7 +524,7 @@
 		//"gitlens.unpublishedCommitIconColor": "#35b15e",
 		//"gitlens.unpulledChangesIconColor": "#b15e35",
 		//!-------------------------------------------------------------------------
-		"inputOption.activeBackground": "#ff6a0066",
+		//"inputOption.activeBackground": "#ff6a0066",
 		//"inputOption.activeBorder": "#007acc00",
 		//"inputOption.activeForeground": "#ffffff",
 		//"inputOption.hoverBackground": "#5a5d5e80",
