@@ -694,6 +694,7 @@
 		//"testing.message.info.lineBackground": null,
 		//"toolbar.hoverOutline": null,
 		//"walkThrough.embeddedEditorBackground": null,
+		//! DONE
 		//! PROPERTIES NOT ALLOWED:
 		//"activityBarItem.settingsProfilesBackground": "#15192b",
 		//"activityBarItem.settingsProfilesForeground": "#8c94a6",
