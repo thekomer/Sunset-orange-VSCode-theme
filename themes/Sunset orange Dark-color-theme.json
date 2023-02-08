@@ -216,7 +216,7 @@
 		"notificationsInfoIcon.foreground": "#58a6ff",
 		"notificationsWarningIcon.foreground": "#d29922",
 		"panel.background": "#0a0d15",
-		"panel.border": "#ff6a0050",
+		"panel.border": "#bfc3cd30",
 		"panel.dropBorder": "#bfc3cd",
 		"panelInput.border": "#BFC3CD20",
 		"panelSection.border": "#bfc3cd20",
