@@ -29,3 +29,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: input placeholder and search editor colors changed for theme consistency
 
 - BUGfix: removing distracting colored panel border
+
+- BUGfix: Find match bg color and highlight color consistency throughout theme
