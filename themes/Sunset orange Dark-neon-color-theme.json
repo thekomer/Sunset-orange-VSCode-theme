@@ -400,6 +400,7 @@
 		//"charts.purple": "#b180d7",
 		//"charts.red": "#f14c4c",
 		//"charts.yellow": "#cca700",
+		//! debugging --------------------------------------------------------------
 		//"debugExceptionWidget.background": "#420b0d",
 		//"debugExceptionWidget.border": "#a31515",
 		//"debugIcon.breakpointCurrentStackframeForeground": "#ffcc00",
@@ -421,6 +422,7 @@
 		//"debugView.stateLabelBackground": "#88888844",
 		//"debugView.stateLabelForeground": "#ced1d9",
 		//"debugView.valueChangedHighlight": "#569cd6",
+		//! ------------------------------------------------------------------------
 		//"editor.findRangeHighlightBackground": "#3a3d4166",
 		//"editor.inactiveSelectionBackground": "#264f7880",
 		//"editor.inlineValuesBackground": "#ffc80033",
