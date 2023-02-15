@@ -31,3 +31,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - BUGfix: removing distracting colored panel border
 
 - BUGfix: Find match bg color and highlight color consistency throughout theme
+
+- BUGfix: changing distracting debugging fg/bg and widget colors to something more muted
