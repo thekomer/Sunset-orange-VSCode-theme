@@ -27,3 +27,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - BUGfix: changing distracting debugging fg/bg and widget colors to something more muted
 
 - Improvement: terminal command decorations (compatible with the rest of the theme)
+
+- Improvement: find in range - range highlight background compatible with theme
