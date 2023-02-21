@@ -423,10 +423,9 @@
 		//"debugView.stateLabelBackground": "#88888844",
 		//"debugView.stateLabelForeground": "#ced1d9",
 		//"debugView.valueChangedHighlight": "#569cd6",
-		//! ------------------------------------------------------------------------
-		//"editor.inactiveSelectionBackground": "#264f7880",
 		//"editor.inlineValuesBackground": "#ffc80033",
 		//"editor.inlineValuesForeground": "#ffffff80",
+		//! ------------------------------------------------------------------------
 		//"editor.rangeHighlightBackground": "#ffffff0b",
 		//"editor.snippetFinalTabstopHighlightBorder": "#525252",
 		//"editor.snippetTabstopHighlightBackground": "#7c7c7c4d",
@@ -684,6 +683,7 @@
 		//"button.separator": "#ffffff66",
 		//"debugExceptionWidget.background": "#420b0d",
 		//"debugExceptionWidget.border": "#a31515",
+		//"editor.inactiveSelectionBackground": "#264f7880",
 		//"statusBarItem.compactHoverBackground": "#ffffff33",
 		//"statusBarItem.errorBackground": "#b91007",
 		//"statusBarItem.errorForeground": "#ffffff",

@@ -423,9 +423,9 @@
 		//"debugView.stateLabelBackground": "#88888844",
 		//"debugView.stateLabelForeground": "#ced1d9",
 		//"debugView.valueChangedHighlight": "#569cd6",
-		//! ------------------------------------------------------------------------
-		//"editor.inlineValuesBackground": "#ffc80033",
+		//"editor.inlineValuesBackground": "#00ff00", // "#ffc80033",
 		//"editor.inlineValuesForeground": "#ffffff80",
+		//! ------------------------------------------------------------------------
 		//"editor.rangeHighlightBackground": "#ffffff0b",
 		//"editor.snippetFinalTabstopHighlightBorder": "#525252",
 		//"editor.snippetTabstopHighlightBackground": "#7c7c7c4d",
