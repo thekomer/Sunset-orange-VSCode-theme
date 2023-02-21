@@ -8,8 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: editor codelens foreground, editor link active foreground and notification link foreground to be in line with other link colors
-
 - Improvement: GitLens gutter fg/bg color
 
 - BUGfix: panel section and terminal border tweaks
@@ -28,4 +26,4 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 - Improvement: terminal command decorations (compatible with the rest of the theme)
 
-- Improvement: find in range - range highlight background compatible with theme
+- Improvement: range highlight color when searching (compatible with the theme)
