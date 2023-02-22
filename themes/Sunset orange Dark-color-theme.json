@@ -167,20 +167,20 @@
 		"keybindingLabel.foreground": "#ced1d9",
 		"keybindingTable.headerBackground": "#0a0d15",
 		"keybindingTable.rowsBackground": "#111420",
-		"list.activeSelectionBackground": "#6e76812a",	// todo: fix compatibility with "the theme"
+		"list.activeSelectionBackground": "#6e76812a",// "#131727", //todo?
 		"list.activeSelectionForeground": "#ced1d9",
 		"list.activeSelectionIconForeground": "#ced1d9",
-		"list.deemphasizedForeground": "#bfc3cd",
+		"list.deemphasizedForeground": "#bfc3cddd",
 		"list.dropBackground": "#ff6a0030",
-		"list.focusBackground": "#ffffff10",
+		"list.focusBackground": "#ffffff10", // "#131727a0", //todo?
 		"list.focusForeground": "#d9e1e9",
 		"list.highlightForeground": "#ff6a00cc",
 		"list.focusHighlightForeground": "#ff6a00",
-		"list.hoverBackground": "#ffffff10",
+		"list.hoverBackground": "#ffffff10",// "#131727a0", //todo?
 		"list.hoverForeground": "#d9e1e9",
-		"list.inactiveFocusBackground": "#ffffff10",
-		"list.inactiveSelectionBackground": "#6e76812a",
-		"list.inactiveSelectionForeground": "#ced1d9",
+		"list.inactiveFocusBackground": "#ffffff10", //null, //todo?
+		"list.inactiveSelectionBackground": "#6e76812a",//"#131727", //todo?
+		"list.inactiveSelectionForeground": "#ced1d9", //"#dee1e9", //todo?
 		"menu.background": "#06080dd9",
 		"menu.foreground": "#BFC3CD",
 		"menu.selectionBackground": "#ff6a00d9",
@@ -297,6 +297,7 @@
 		"statusBar.focusBorder": "#ff6a0060",
 		"statusBar.foreground": "#b9bec9",
 		"statusBar.noFolderBackground": "#0e111d",
+		"statusBar.noFolderForeground": "#bfc3cd",
 		"statusBarItem.activeBackground": "#ced1d91f",
 		"statusBarItem.focusBorder": "#ff6a0080",
 		"statusBarItem.hoverBackground": "#BFC3CD24",
@@ -436,7 +437,7 @@
 		//"editorCommentsWidget.rangeBorder": "#3794ff66",
 		//"editorCommentsWidget.resolvedBorder": "#cccccc80",
 		//"editorCommentsWidget.unresolvedBorder": "#3794ff",
-		//"editorError.foreground": "#f14c4c",
+		//"editorError.foreground": "#f14c4c", //todo start here
 		//"editorGhostText.foreground": "#ffffff56",
 		//"editorGroupHeader.noTabsBackground": "#0e111d",
 		//"editorGutter.commentRangeForeground": "#6e76812a",
@@ -537,7 +538,6 @@
 		//"listFilterWidget.background": "#06080d",
 		//"listFilterWidget.noMatchesOutline": "#be1100",
 		//"listFilterWidget.outline": "#00000000",
-		//"listFilterWidget.shadow": "#0000005c",
 		//"merge.commonContentBackground": "#60606029",
 		//"merge.commonHeaderBackground": "#60606066",
 		//"merge.currentContentBackground": "#40c8ae33",
@@ -576,8 +576,6 @@
 		//"scm.providerBorder": "#454545",
 		//"sqltools.currentQueryBg": "#00a2ff20",
 		//"sqltools.currentQueryOutline": "#00a2ff20",
-		//"statusBar.noFolderBorder": "#30363d",
-		//"statusBar.noFolderForeground": "#8c94a6",
 		//"symbolIcon.constantForeground": "#ced1d9",
 		//"tab.activeModifiedBorder": "#3399cc",
 		//"tab.inactiveModifiedBorder": "#3399cc80",
@@ -603,7 +601,6 @@
 		//"toolbar.activeBackground": "#63666750",
 		//"tree.tableColumnsBorder": "#cccccc20",
 		//"tree.tableOddRowsBackground": "#ced1d90a",
-		//"widget.shadow": "#0000005c",
 		//! null
 		//"activityBar.activeBackground": null,
 		//"activityBar.activeFocusBorder": null,
@@ -666,7 +663,6 @@
 		//"terminalCursor.background": null,
 		//"testing.message.info.lineBackground": null,
 		//"toolbar.hoverOutline": null,
-		//"walkThrough.embeddedEditorBackground": null,
 		//! DONE
 		//"button.separator": "#ffffff66",
 		//"debugExceptionWidget.background": "#440000",
@@ -684,6 +680,8 @@
 		//"editorBracketPairGuide.background4": "#00000000",
 		//"editorBracketPairGuide.background5": "#00000000",
 		//"editorBracketPairGuide.background6": "#00000000",
+		//"listFilterWidget.shadow": "#0000005c",
+		//"statusBar.noFolderBorder": "#30363d",
 		//"statusBarItem.compactHoverBackground": "#ffffff33",
 		//"statusBarItem.errorBackground": "#b91007",
 		//"statusBarItem.errorForeground": "#ffffff",
@@ -693,12 +691,14 @@
 		//"terminal.inactiveSelectionBackground": "#264f7880",
 		//"terminal.selectionBackground": "#264f78",
 		//"terminalOverviewRuler.cursorForeground": "#a0a0a0cc",
+		//"widget.shadow": "#0000005c",
 		//! DONE NULL
 		//"editor.findMatchBorder": null,
 		//"editor.findMatchHighlightBorder": null,
 		//"searchEditor.findMatchBorder": null,
 		//"terminal.findMatchBorder": null,
 		//"terminal.findMatchHighlightBorder": null,
+		//"walkThrough.embeddedEditorBackground": null,
 		//! PROPERTIES NOT ALLOWED:
 		//"activityBarItem.settingsProfilesBackground": "#15192b",
 		//"activityBarItem.settingsProfilesForeground": "#8c94a6",
