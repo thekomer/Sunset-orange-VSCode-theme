@@ -27,3 +27,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: range highlight color when searching (compatible with the theme)
 
 - Improvements: list deemphasized fg color, statusbar no folder fg color
+
+- Improvement: debug view label && debug exception widget
