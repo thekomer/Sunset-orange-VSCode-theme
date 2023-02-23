@@ -8,10 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- BUGfix: panel section and terminal border tweaks
-
-- Improvement: peekView title fg/bg colors & peekView result list colors (for theme compatibility)
-
 - BUGfix: removing diffeditor line/text borders (complying with styling [guidelines](https://code.visualstudio.com/api/references/theme-color))
 
 - Improvement: input placeholder and search editor colors changed for theme consistency
@@ -30,4 +26,4 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 - Improvement: debug view label && debug exception widget
 
-- BUGfix and Improvement: input options icon color for better visibility & remove inconsistent blue border
+- BUGfix and Improvement: input options icon color for better visibility & remove border
