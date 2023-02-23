@@ -29,3 +29,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvements: list deemphasized fg color, statusbar no folder fg color
 
 - Improvement: debug view label && debug exception widget
+
+- BUGfix and Improvement: input options icon color for better visibility & remove inconsistent blue border
