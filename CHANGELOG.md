@@ -33,3 +33,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: making comments italic
 
 - BUGfix: workbench icon foreground color not visible enough
+
+- Improvement: snippet highlight color
