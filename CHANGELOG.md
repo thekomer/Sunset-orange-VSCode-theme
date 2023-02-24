@@ -31,3 +31,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: toolbar item active/hover color, table even/odd row background consistency, quick input text higher contrast and thee consistency, ignored resource color, some commenting
 
 - Improvement: making comments italic
+
+- BUGfix: workbench icon foreground color not visible enough

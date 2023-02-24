@@ -163,7 +163,7 @@
 		"gitDecoration.untrackedResourceForeground": "#3fb950",
 		"gitlens.gutterBackgroundColor": "#131727",
 		"gitlens.gutterForegroundColor": "#BFC3CD",
-		"icon.foreground": "#8c94a6",
+		"icon.foreground": "#b9bec9",
 		"input.background": "#131727",
 		"input.border": "#bfc3cd20",
 		"input.foreground": "#ced1d9",
