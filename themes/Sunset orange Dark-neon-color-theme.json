@@ -652,7 +652,6 @@
 		//"menu.selectionBorder": null,
 		//"menubar.selectionBorder": null,
 		//"merge.border": null,
-		//"minimap.background": null,
 		//"notebook.inactiveSelectedCellBorder": null,
 		//"notebook.outputContainerBackgroundColor": null,
 		//"notebook.outputContainerBorderColor": null,
@@ -690,6 +689,7 @@
 		//! DONE NULL
 		//"editor.findMatchBorder": null,
 		//"editor.findMatchHighlightBorder": null,
+		//"minimap.background": null,
 		//"searchEditor.findMatchBorder": null,
 		//"tab.hoverBorder": null,
 		//"tab.hoverForeground": null,
