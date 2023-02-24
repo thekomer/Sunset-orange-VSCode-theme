@@ -717,7 +717,8 @@
 				"string.comment"
 			],
 			"settings": {
-				"foreground": "#bfc3cdaa" // "#8c94a6"
+				"fontStyle": "italic",
+				"foreground": "#bfc3cdaa"
 			}
 		},
 		{
