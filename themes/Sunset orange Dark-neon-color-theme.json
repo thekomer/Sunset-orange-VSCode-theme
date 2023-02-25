@@ -101,6 +101,7 @@
 		"editorBracketMatch.border": "#00ff00bb",
 		"editorCodeLens.foreground": "#a1b8d6",
 		"editorCursor.foreground": "#ff6a00",
+		"editorGhostText.foreground": "#eef1f966",
 		"editorGroup.border": "#bfc3cd20",
 		"editorGroup.dropBackground": "#ff6a0030",
 		"editorGroup.dropIntoPromptBackground": "#06080d",

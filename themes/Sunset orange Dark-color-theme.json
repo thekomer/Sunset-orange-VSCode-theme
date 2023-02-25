@@ -101,6 +101,7 @@
 		"editorBracketMatch.border": "#00ff00bb",
 		"editorCodeLens.foreground": "#a1b8d6",
 		"editorCursor.foreground": "#ff6a00",
+		"editorGhostText.foreground": "#bfc3cd66",
 		"editorGroup.border": "#bfc3cd20",
 		"editorGroup.dropBackground": "#ff6a0030",
 		"editorGroup.dropIntoPromptBackground": "#06080d",
@@ -447,7 +448,6 @@
 		//"editorCommentsWidget.resolvedBorder": "#cccccc80",
 		//"editorCommentsWidget.unresolvedBorder": "#3794ff",
 		//"editorError.foreground": "#f14c4c", //todo start here
-		//"editorGhostText.foreground": "#ffffff56",
 		//"editorGroupHeader.noTabsBackground": "#0e111d",
 		//"editorGutter.commentRangeForeground": "#6e76812a",
 		//"editorHint.foreground": "#eeeeeeb3",

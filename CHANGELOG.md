@@ -34,4 +34,4 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 - BUGfix: workbench icon foreground color not visible enough
 
-- Improvement: snippet highlight color
+- Improvement: snippet highlight color, editor "ghost text" fg color
