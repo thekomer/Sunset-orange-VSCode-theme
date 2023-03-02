@@ -8,8 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: terminal command decorations (compatible with the rest of the theme)
-
 - Improvement: range highlight color when searching (compatible with the theme)
 
 - Improvements: list deemphasized fg color, statusbar no folder fg color
