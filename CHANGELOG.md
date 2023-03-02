@@ -27,3 +27,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: snippet highlight color, editor "ghost text" fg color
 
 - Improvement: list colors better compatibility with theme
+
+- Improvement: adding new (since Vscode 1.76) profile badge colors

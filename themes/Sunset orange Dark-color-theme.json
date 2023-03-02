@@ -258,6 +258,8 @@
 		"peekViewResult.selectionForeground": "#ffffff",
 		"pickerGroup.border": "#ff6a0040",
 		"pickerGroup.foreground": "#8c94a6",
+		"profileBadge.background": "#06080d",
+		"profileBadge.foreground": "#ffffff",
 		"progressBar.background": "#ff6a00",
 		"quickInput.background": "#06080d",
 		"quickInput.foreground": "#b9bec9",
