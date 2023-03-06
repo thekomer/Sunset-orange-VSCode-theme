@@ -8,8 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- BUGfix and Improvement: input options icon color for better visibility & remove border
-
 - Improvement: toolbar item active/hover color, table even/odd row background consistency, quick input text higher contrast and thee consistency, ignored resource color, some commenting
 
 - Improvement: making comments italic
@@ -27,3 +25,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: SQLtools highlight color change (compatibility with the theme)
 
 - Improvement: chart colors
+
+- BUGfix: sqltools highlight color opaque -> transparent
