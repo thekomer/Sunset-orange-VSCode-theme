@@ -31,3 +31,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - improvement: color of the editor pane (left and right area from editor in centered mode)
 
 - Improvement: SQLtools highlight color change (compatibility with the theme)
+
+- Improvement: chart colors
