@@ -8,8 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: making comments italic
-
 - BUGfix: workbench icon foreground color not visible enough
 
 - Improvement: snippet highlight color, editor "ghost text" fg color
@@ -27,3 +25,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - BUGfix: sqltools highlight color opaque -> transparent
 
 - Improvement: increasing difference between two bluish colors in regular dark variant
+
+- BUGfix: decreasing lightblue/bg contrast but stil keeping last commit valid
