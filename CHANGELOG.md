@@ -27,3 +27,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: chart colors
 
 - BUGfix: sqltools highlight color opaque -> transparent
+
+- Improvement: increasing difference between two bluish colors in regular dark variant
