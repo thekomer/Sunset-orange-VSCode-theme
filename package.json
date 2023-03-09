@@ -11,10 +11,12 @@
   },
   "keywords": [
     "theme",
+    "dark",
     "dark theme",
     "thekomer",
     "komer",
-    "sunset orange dark"
+    "sunset orange dark",
+    "orange"
   ],
   "engines": {
     "vscode": "^1.73.0"
@@ -22,6 +24,10 @@
   "categories": [
     "Themes"
   ],
+  "galleryBanner": {
+		"color": "#0e111d",
+		"theme": "dark"
+	},
   "contributes": {
     "themes": [
       {
