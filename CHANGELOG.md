@@ -8,8 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: snippet highlight color, editor "ghost text" fg color
-
 - Improvement: list colors better compatibility with theme
 
 - Improvement: adding new (since Vscode 1.76) profile badge colors
@@ -27,3 +25,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - BUGfix: decreasing lightblue/bg contrast but stil keeping last commit valid
 
 - Marketing: vscode marketplace banner background color
+
+- Improvement: command center bg/hover color compatibility with the theme & better active/inactive difference
