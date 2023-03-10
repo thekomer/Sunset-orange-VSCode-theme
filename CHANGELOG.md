@@ -29,3 +29,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: add widget borders; sidebar and icons fg/bg decrease color contrast; description fg color compatibility with theme; secondary button theme consistency
 
 - Visualization: marketplace theme presentation & readme modification
+
+- Improvement: slight tweak of scrollbar, dropdown & input element
