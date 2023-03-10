@@ -22,8 +22,10 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 - BUGfix: decreasing lightblue/bg contrast but stil keeping last commit valid
 
-- Marketing: vscode marketplace banner background color
+- Visualization: vscode marketplace banner background color
 
 - Improvement: command center bg/hover color compatibility with the theme & better active/inactive difference
 
 - Improvement: add widget borders; sidebar and icons fg/bg decrease color contrast; description fg color compatibility with theme; secondary button theme consistency
+
+- Visualization: marketplace theme presentation & readme modification

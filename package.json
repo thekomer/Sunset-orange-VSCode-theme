@@ -1,7 +1,7 @@
 {
   "name": "sunset-orange-dark",
-  "displayName": "Sunset orange Dark",
-  "description": "VSCode dark theme compatible with Sunset orange GTK theme (based on Github dark original VSCode theme)",
+  "displayName": "Sunset Orange Dark",
+  "description": "VSCode dark theme with orange accent",
   "icon": "media/logo.png",
   "version": "2.1.0",
   "publisher": "thekomer",
@@ -25,8 +25,8 @@
     "Themes"
   ],
   "galleryBanner": {
-    "color": "#0e111d",
-    "theme": "dark"
+    "color": "#ffdbc2",
+    "theme": "light"
   },
   "contributes": {
     "themes": [
