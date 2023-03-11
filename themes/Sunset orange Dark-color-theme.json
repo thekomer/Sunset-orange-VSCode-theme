@@ -1,9 +1,10 @@
 {
 	"name": "Sunset orange Dark",
 	"colors": {
+		"activityBar.activeBackground": "#06080d",
 		"activityBar.activeBorder": "#ff6a00",
 		"activityBar.background": "#0e111d",
-		"activityBar.border": "#bfc3cd20",
+		"activityBar.border": "#bfc3cd10",
 		"activityBar.dropBorder": "#bfc3cd",
 		"activityBar.foreground": "#bfc3cd",
 		"activityBar.inactiveForeground": "#bfc3cdbb",
@@ -602,7 +603,6 @@
 		//"testing.peekHeaderBackground": "#f14c4c1a",
 		//"testing.runAction": "#73c991",
 		//! null
-		//"activityBar.activeBackground": null,
 		//"activityBar.activeFocusBorder": null,
 		//"button.border": null,
 		//"contrastActiveBorder": null,

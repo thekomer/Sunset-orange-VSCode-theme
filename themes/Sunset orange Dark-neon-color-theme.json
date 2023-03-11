@@ -1,9 +1,10 @@
 {
 	"name": "Sunset orange Dark neon (beta)",
 	"colors": {
+		"activityBar.activeBackground": "#06080d",
 		"activityBar.activeBorder": "#ff6a00",
 		"activityBar.background": "#0e111d",
-		"activityBar.border": "#bfc3cd20",
+		"activityBar.border": "#bfc3cd10",
 		"activityBar.dropBorder": "#bfc3cd",
 		"activityBar.foreground": "#bfc3cd",
 		"activityBar.inactiveForeground": "#bfc3cdbb",
@@ -607,7 +608,6 @@
 		//"tree.tableColumnsBorder": "#cccccc20",
 		//"tree.tableOddRowsBackground": "#ced1d90a",
 		//! null
-		//"activityBar.activeBackground": null,
 		//"activityBar.activeFocusBorder": null,
 		//"button.border": null,
 		//"contrastActiveBorder": null,

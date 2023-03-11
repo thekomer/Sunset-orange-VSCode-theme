@@ -27,3 +27,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: slight tweak of lists, list filter widget, list indent guides & widget border
 
 - Improvement: input validation fg colors
+
+- Improvements: slight tweak of activitybar colors
