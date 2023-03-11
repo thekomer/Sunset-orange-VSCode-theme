@@ -31,3 +31,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Visualization: marketplace theme presentation & readme modification
 
 - Improvement: slight tweak of scrollbar, dropdown & input element
+
+- Improvement: slight tweak of lists, list filter widget, list indent guides & widget border
