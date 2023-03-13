@@ -29,3 +29,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: input validation fg colors
 
 - Improvements: slight tweak of activitybar and sidebar colors
+
+- Improvement: minimap colors tweak
