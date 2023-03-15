@@ -31,3 +31,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvements: slight tweak of activitybar and sidebar colors
 
 - Improvement: minimap colors tweak
+
+- Improvement: editor groups and tabs colors modification for better consistency
