@@ -33,3 +33,7 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: minimap colors tweak
 
 - Improvement: editor groups and tabs colors modification for better consistency
+
+- Improvement: colors for consistency: line number dimmed color, find match, edit highlight and selection colors, minimap find match and highlight color to match, terminal find match and highlight
+
+- BUGfix: character under block cursor color
