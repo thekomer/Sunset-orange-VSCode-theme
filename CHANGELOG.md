@@ -37,3 +37,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: colors for consistency: line number dimmed color, find match, edit highlight and selection colors, minimap find match and highlight color to match, terminal find match and highlight
 
 - BUGfix: character under block cursor color
+
+- Improvement: range highlight, hover highlight and unicode characters highlight for better compatibility with the theme
