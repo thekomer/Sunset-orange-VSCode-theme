@@ -39,3 +39,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - BUGfix: character under block cursor color
 
 - Improvement: range highlight, hover highlight and unicode characters highlight for better compatibility with the theme
+
+- Improvement: symbol highlight when in definition; whitespace color
