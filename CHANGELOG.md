@@ -41,3 +41,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: range highlight, hover highlight and unicode characters highlight for better compatibility with the theme
 
 - Improvement: symbol highlight when in definition; whitespace color
+
+- Improvement: inlay hints colors tweak
