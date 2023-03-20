@@ -43,3 +43,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: symbol highlight when in definition; whitespace color
 
 - Improvement: inlay hints colors tweak
+
+- Improvement: making linked editing more distinguishable from search highlight color, hence purple
