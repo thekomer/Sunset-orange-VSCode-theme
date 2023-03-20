@@ -146,7 +146,7 @@
 		"editorInlayHint.typeBackground": "#bfc3cd33",
 		"editorInlayHint.typeForeground": "#bfc3cdaa",
 		"editorLightBulb.foreground": "#ffcc00",
-		"editorLightBulbAutoFix.foreground": "#75beff",
+		"editorLightBulbAutoFix.foreground": "#aaff00",
 		"editorLineNumber.activeForeground": "#ced1d9",
 		"editorLineNumber.foreground": "#ced1d988",
 		"editorLink.activeForeground": "#68b6ff",

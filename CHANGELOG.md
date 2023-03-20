@@ -45,3 +45,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: inlay hints colors tweak
 
 - Improvement: making linked editing more distinguishable from search highlight color, hence purple
+
+- Improvement: Lightbulb auto-fix color -> greenish symbolizing solution :-)
