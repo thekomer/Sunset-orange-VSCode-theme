@@ -47,3 +47,9 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: making linked editing more distinguishable from search highlight color, hence purple
 
 - Improvement: Lightbulb auto-fix color -> greenish symbolizing solution :-)
+
+- Improvement: unexpected bracket color tweak for easier future development,
+
+- New in this theme: editor bracket guides colors defined (you may want to turn them on in settings)
+
+- Improvement: Darkening fold background to be less distracting
