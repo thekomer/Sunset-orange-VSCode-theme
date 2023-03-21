@@ -27,3 +27,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - New in this theme: editor bracket guides colors defined (you may want to turn them on in settings)
 
 - Improvement: Darkening fold background to be less distracting
+
+- Improvements: tweak overview ruler colors for consistency
