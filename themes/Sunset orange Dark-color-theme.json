@@ -475,7 +475,7 @@
 		"textSeparator.foreground": "#21262d",
 		"titleBar.activeBackground": "#06080d",
 		"titleBar.activeForeground": "#bfc3cd",
-		"titleBar.border": "#30363d60",
+		"titleBar.border": "#bfc3cd00",
 		"titleBar.inactiveBackground": "#06080d",
 		"titleBar.inactiveForeground": "#bfc3cdaa",
 		"toolbar.activeBackground": "#bfc3cd28",

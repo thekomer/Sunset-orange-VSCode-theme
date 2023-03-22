@@ -31,3 +31,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: some input borders tweak and panel borders less contrasty
 
 - Improvement: status bar colors tweak; some error backgrounds modifications for consistency
+
+- Improvement: title-bar border -> transparent
