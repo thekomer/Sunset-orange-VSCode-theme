@@ -27,3 +27,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: Darkening fold background to be less distracting
 
 - Improvements: tweak overview ruler colors for consistency
+
+- Improvement: some input borders tweak and panel borders less contrasty
