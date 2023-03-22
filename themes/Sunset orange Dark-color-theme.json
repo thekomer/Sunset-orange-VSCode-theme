@@ -253,7 +253,7 @@
 		"listFilterWidget.background": "#0E111D",
 		"listFilterWidget.shadow": "#bfc3cd20",
 		"menu.background": "#06080dd9",
-		"menu.foreground": "#BFC3CD",
+		"menu.foreground": "#bfc3cd",
 		"menu.selectionBackground": "#ff6a00d9",
 		"menu.selectionForeground": "#ffffff",
 		"menu.separatorBackground": "#60606060",
