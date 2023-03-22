@@ -33,3 +33,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: status bar colors tweak; some error backgrounds modifications for consistency
 
 - Improvement: title-bar border -> transparent
+
+- Improvement: settings header fg & settings header hover fg color tweaks
