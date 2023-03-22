@@ -35,3 +35,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: title-bar border -> transparent
 
 - Improvement: settings header fg & settings header hover fg color tweaks
+
+- BUGfix: editor indent guides fix
