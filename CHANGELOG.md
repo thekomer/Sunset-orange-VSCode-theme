@@ -8,16 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- BUGfix: character under block cursor color
-
-- Improvement: range highlight, hover highlight and unicode characters highlight for better compatibility with the theme
-
-- Improvement: symbol highlight when in definition; whitespace color
-
-- Improvement: inlay hints colors tweak
-
-- Improvement: making linked editing more distinguishable from search highlight color, hence purple
-
 - Improvement: Lightbulb auto-fix color -> greenish symbolizing solution :-)
 
 - Improvement: unexpected bracket color tweak for easier future development,
@@ -37,3 +27,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: settings header fg & settings header hover fg color tweaks
 
 - BUGfix: editor indent guides fix
+
+- Improvement: linked editing more visible

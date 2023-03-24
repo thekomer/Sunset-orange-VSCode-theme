@@ -90,7 +90,7 @@
 		"editor.hoverHighlightBackground": "#bfc3cd38",
 		"editor.lineHighlightBackground": "#131727",
 		"editor.lineHighlightBorder": "#ff6a0018",
-		"editor.linkedEditingBackground": "#aa00aa42",
+		"editor.linkedEditingBackground": "#aa00aa52",
 		"editor.rangeHighlightBackground": "#bfc3cd18",
 		"editor.selectionBackground": "#ff6a0050",
 		"editor.selectionHighlightBackground": "#0095ff30",
@@ -685,6 +685,7 @@
 		//"widget.shadow": "#0000005c",
 		//! DONE NULL
 		//"checkbox.selectBackground": null,
+		//"checkbox.selectBorder": "#ced1d950",
 		//"editor.findMatchBorder": null,
 		//"editor.findMatchHighlightBorder": null,
 		//"editor.snippetFinalTabstopHighlightBackground": null,
