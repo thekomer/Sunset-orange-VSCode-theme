@@ -8,8 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: Lightbulb auto-fix color -> greenish symbolizing solution :-)
-
 - Improvement: unexpected bracket color tweak for easier future development,
 
 - New in this theme: editor bracket guides colors defined (you may want to turn them on in settings)
@@ -29,3 +27,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - BUGfix: editor indent guides fix
 
 - Improvement: linked editing more visible
+
+- Improvement: editor error/warning/info border/squiggles tweaks
