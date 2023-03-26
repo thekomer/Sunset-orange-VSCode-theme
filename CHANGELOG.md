@@ -29,3 +29,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: linked editing more visible
 
 - Improvement: editor error/warning/info border/squiggles tweaks; error, info, warning icons color tweaks
+
+- Improvement: editor gutter colors slight modification for better visibility
