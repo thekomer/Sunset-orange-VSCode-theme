@@ -8,8 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvements: tweak overview ruler colors for consistency
-
 - Improvement: some input borders tweak and panel borders less contrasty
 
 - Improvement: status bar colors tweak; some error backgrounds modifications for consistency
@@ -27,3 +25,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: editor gutter colors slight modification for better visibility
 
 - Improvement: diff editor colors tweak for better usability and compatibility with the theme
+
+- Improvement: command center colors dimmed a bit not to stick out so much on title-bar
