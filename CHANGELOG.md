@@ -27,3 +27,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: diff editor colors tweak for better usability and compatibility with the theme
 
 - Improvement: command center colors dimmed a bit not to stick out so much on title-bar
+
+- Improvement: editor widget & editor sticky scroll tweaks; quick input consistency tweak
