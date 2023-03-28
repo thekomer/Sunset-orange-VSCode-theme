@@ -8,10 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: some input borders tweak and panel borders less contrasty
-
-- Improvement: status bar colors tweak; some error backgrounds modifications for consistency
-
 - Improvement: title-bar border -> transparent
 
 - Improvement: settings header fg & settings header hover fg color tweaks
@@ -29,3 +25,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: command center colors dimmed a bit not to stick out so much on title-bar
 
 - Improvement: editor widget & editor sticky scroll tweaks; quick input consistency tweak
+
+- Improvement: editor marker's tweaks for "go to next problem" (error, warning, info) command
