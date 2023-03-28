@@ -29,3 +29,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: Peek-view editor tweaks
 
 - Improvement: menu-bar tweak
+
+- BUGfix: menu border fix

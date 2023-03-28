@@ -272,7 +272,7 @@
 		"menu.foreground": "#b8bdc8",
 		"menu.selectionBackground": "#ff6a00d9",
 		"menu.selectionForeground": "#ffffff",
-		"menu.separatorBackground": "#06080dd8",
+		"menu.separatorBackground": "#bfc3cd10",
 		"menubar.selectionBackground": "#0E111D",
 		"menubar.selectionForeground": "#ffffff",
 		"minimap.background": "#ffffff06",
