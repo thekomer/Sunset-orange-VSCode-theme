@@ -27,3 +27,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: editor marker's tweaks for "go to next problem" (error, warning, info) command
 
 - Improvement: Peek-view editor tweaks
+
+- Improvement: menu-bar tweak
