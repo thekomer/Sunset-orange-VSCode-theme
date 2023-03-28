@@ -8,8 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: title-bar border -> transparent
-
 - Improvement: settings header fg & settings header hover fg color tweaks
 
 - BUGfix: editor indent guides fix
@@ -27,3 +25,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: editor widget & editor sticky scroll tweaks; quick input consistency tweak
 
 - Improvement: editor marker's tweaks for "go to next problem" (error, warning, info) command
+
+- Improvement: Peek-view editor tweaks
