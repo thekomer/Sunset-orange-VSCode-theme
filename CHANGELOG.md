@@ -8,12 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: settings header fg & settings header hover fg color tweaks
-
-- BUGfix: editor indent guides fix
-
-- Improvement: linked editing more visible
-
 - Improvement: editor error/warning/info border/squiggles tweaks; error, info, warning icons color tweaks
 
 - Improvement: editor gutter colors slight modification for better visibility
