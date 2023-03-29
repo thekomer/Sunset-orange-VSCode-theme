@@ -31,3 +31,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: menu-bar tweak
 
 - BUGfix: menu border fix
+
+- Improvement: notifications tweak (making notifications more prominent/contrasty on purpose); list hover color modification
