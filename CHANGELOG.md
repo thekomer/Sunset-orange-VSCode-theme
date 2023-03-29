@@ -8,8 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: editor error/warning/info border/squiggles tweaks; error, info, warning icons color tweaks
-
 - Improvement: editor gutter colors slight modification for better visibility
 
 - Improvement: diff editor colors tweak for better usability and compatibility with the theme
@@ -27,3 +25,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - BUGfix: menu border fix
 
 - Improvement: notifications tweak (making notifications more prominent/contrasty on purpose); list hover color modification
+
+- Improvement: Quick picker input group label color

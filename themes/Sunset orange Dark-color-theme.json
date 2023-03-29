@@ -340,7 +340,7 @@
 		"peekViewResult.selectionForeground": "#ffffff",
 		"peekViewEditorStickyScroll.background": "#06080d",
 		"pickerGroup.border": "#ff6a0040",
-		"pickerGroup.foreground": "#8c94a6",
+		"pickerGroup.foreground": "#ff6a0080",
 		"problemsErrorIcon.foreground": "#f14c4c",
 		"problemsInfoIcon.foreground":"#3794ff",
 		"problemsWarningIcon.foreground": "#cca700",
