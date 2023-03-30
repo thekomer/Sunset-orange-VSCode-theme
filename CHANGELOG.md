@@ -8,12 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: editor gutter colors slight modification for better visibility
-
-- Improvement: diff editor colors tweak for better usability and compatibility with the theme
-
-- Improvement: command center colors dimmed a bit not to stick out so much on title-bar
-
 - Improvement: editor widget & editor sticky scroll tweaks; quick input consistency tweak
 
 - Improvement: editor marker's tweaks for "go to next problem" (error, warning, info) command
@@ -31,3 +25,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - BUGfix: scrollbars not visible enough
 
 - BUGfix: overview ruler error mark color color not distinguishable from added resource mark, error fg in neon version compatibility with the theme; Improvement: terminal color tweaks for compatibility with the theme
+
+- BUGfix: sticky scroll background not differentiable from the rest of editor background

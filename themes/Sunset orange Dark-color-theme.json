@@ -190,7 +190,7 @@
 		"editorOverviewRuler.warningForeground": "#cca700",
 		"editorPane.background": "#0a0d15",
 		"editorRuler.foreground": "#00ffff1a",
-		"editorStickyScroll.background": "#0e111d",
+		"editorStickyScroll.background": "#0a0d15",
 		"editorStickyScrollHover.background": "#131727",
 		"editorSuggestWidget.background": "#06080d",
 		"editorSuggestWidget.border": "#bfc3cd20",
