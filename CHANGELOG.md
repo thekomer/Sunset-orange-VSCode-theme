@@ -27,3 +27,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: notifications tweak (making notifications more prominent/contrasty on purpose); list hover color modification
 
 - Improvement: Quick picker input group label color
+
+- BUGfix: scrollbars not visible enough
