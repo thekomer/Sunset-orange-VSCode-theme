@@ -29,3 +29,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: Quick picker input group label color
 
 - BUGfix: scrollbars not visible enough
+
+- BUGfix: overview ruler error mark color color not distinguishable from added resource mark, error fg in neon version compatibility with the theme; Improvement: terminal color tweaks for compatibility with the theme
