@@ -26,4 +26,4 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 - Improvement: Welcome page tweak
 
-- Improvement: settings colors tweak
+- Improvement: settings colors tweak & Breadcrumb selected fg color tweak
