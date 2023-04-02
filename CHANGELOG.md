@@ -8,8 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: editor marker's tweaks for "go to next problem" (error, warning, info) command
-
 - Improvement: Peek-view editor tweaks
 
 - Improvement: menu-bar tweak
@@ -27,3 +25,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - BUGfix: sticky scroll background not differentiable from the rest of editor background
 
 - Improvement: Welcome page tweak
+
+- Improvement: settings colors tweak
