@@ -8,8 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: notifications tweak (making notifications more prominent/contrasty on purpose); list hover color modification
-
 - Improvement: Quick picker input group label color
 
 - BUGfix: scrollbars not visible enough
@@ -27,3 +25,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: symbol icons fg color in Neon version
 
 - Improvement: Jupyter notebook tweaks
+
+- Improvement: charts colors tweak
