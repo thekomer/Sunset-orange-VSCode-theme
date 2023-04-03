@@ -8,10 +8,6 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
-- Improvement: Peek-view editor tweaks
-
-- Improvement: menu-bar tweak
-
 - BUGfix: menu border fix
 
 - Improvement: notifications tweak (making notifications more prominent/contrasty on purpose); list hover color modification
@@ -29,3 +25,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: settings colors tweak & Breadcrumb selected fg color tweak
 
 - Improvement: editor snippets (predefined code macros) colors tweak - adding border color for better usability
+
+- Improvement: symbol icons fg color in Neon version
