@@ -29,3 +29,5 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvement: charts colors tweak
 
 - improvement: running process on port marker color
+
+- Improvement: increasing highlight difference between focused and unfocused item for usability of suggest widget

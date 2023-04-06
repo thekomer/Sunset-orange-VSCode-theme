@@ -201,7 +201,7 @@
 		"editorSuggestWidget.border": "#bfc3cd20",
 		"editorSuggestWidget.focusHighlightForeground": "#ff6a00",
 		"editorSuggestWidget.foreground": "#b8bec8",
-		"editorSuggestWidget.highlightForeground": "#ff6a00cc",
+		"editorSuggestWidget.highlightForeground": "#ff6a00aa",
 		"editorSuggestWidget.selectedBackground": "#131727",
 		"editorSuggestWidget.selectedForeground": "#ffffff",
 		"editorSuggestWidget.selectedIconForeground": "#ffffff",
