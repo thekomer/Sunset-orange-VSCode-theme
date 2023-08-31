@@ -159,8 +159,8 @@
 		"editorHoverWidget.foreground": "#b8bdc8",
 		"editorHoverWidget.statusBarBackground": "#06080d",
 		"editorHoverWidget.highlightForeground": "#ff6a00",
-		"editorIndentGuide.activeBackground": "#ced1d94d",
-		"editorIndentGuide.background": "#ced1d914",
+		"editorIndentGuide.activeBackground1": "#ced1d94d",	// 'editorIndentGuide.activeBackground' deprecated.
+		"editorIndentGuide.background1": "#ced1d914",		// 'editorIndentGuide.background' deprecated.
 		"editorInfo.foreground": "#3794ff00",
 		"editorInfo.border": "#1f51ff",
 		"editorInlayHint.background": "#bfc3cd33",
