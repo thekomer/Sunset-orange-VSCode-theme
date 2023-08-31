@@ -8,6 +8,8 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
+- Improvements: cleaning out deprecated names and size down package
+
 - Improvement: Quick picker input group label color
 
 - BUGfix: scrollbars not visible enough
