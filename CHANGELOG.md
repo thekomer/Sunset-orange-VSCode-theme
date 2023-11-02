@@ -8,6 +8,8 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
+- New entry: textPreformat.background color in VSCode v1.84.0
+
 - Improvements: cleaning out deprecated names and size down package
 
 - Improvement: Quick picker input group label color

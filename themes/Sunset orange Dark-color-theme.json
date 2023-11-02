@@ -508,6 +508,7 @@
 		"textLink.activeForeground": "#68b6ff",
 		"textLink.foreground": "#58a6ff",
 		"textPreformat.foreground": "#8c94a6",
+		"textPreformat.background": "#06080d",
 		"textSeparator.foreground": "#21262d",
 		"titleBar.activeBackground": "#06080d",
 		"titleBar.activeForeground": "#bfc3cd",
