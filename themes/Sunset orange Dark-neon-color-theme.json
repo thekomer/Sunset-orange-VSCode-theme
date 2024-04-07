@@ -504,6 +504,7 @@
 		"terminalCursor.foreground": "#ff6a00",
 		"terminalOverviewRuler.cursorForeground": "#ff6a00",
 		"terminalOverviewRuler.findMatchForeground": "#005999b3",
+		"terminalStickyScroll.background": "#0a0d15",
 		"textBlockQuote.background": "#06080d",
 		"textBlockQuote.border": "#bfc3cd20",
 		"textCodeBlock.background": "#6e76812a",
