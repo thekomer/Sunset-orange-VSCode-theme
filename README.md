@@ -1,6 +1,6 @@
 # Sunset orange Dark VSCode theme
 
-My GoTo theme for codding. It's created for my personal use. It is compatible with color scheme from my Sunset orange GTK theme. Feel free to enjoy it's magic ✨
+My GoTo theme for coding. It's created for my personal use. It is compatible with color scheme from my Sunset orange GTK theme. Feel free to enjoy it's magic ✨
 
 Theme syntax highlighting is hugely inspired by [Github Dark Default theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 
