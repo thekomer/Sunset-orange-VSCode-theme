@@ -109,6 +109,11 @@
 		"editor.wordHighlightBorder": "#bfc3cd24",
 		"editor.wordHighlightStrongBackground": "#bfc3cd24",
 		"editor.wordHighlightStrongBorder": "#bfc3cd24",
+//TODO: The color of the action list control, such as the Code Action menu, can be configured. By default, the action list control theme matches that of the Quick Pick and Command Palette.
+//  "editorActionList.background": "",
+//	"editorActionList.foreground": "",
+//	"editorActionList.focusForeground": "",
+//	"editorActionList.focusBackground": "",
 		"editorBracketHighlight.foreground1": "#80c3ff",
 		"editorBracketHighlight.foreground2": "#56d364",
 		"editorBracketHighlight.foreground3": "#e3b341",
@@ -499,6 +504,8 @@
 		"terminalCommandDecoration.defaultBackground": "#bfc3cd60",
 		"terminalCommandDecoration.errorBackground": "#ff000080",
 		"terminalCommandDecoration.successBackground": "#00ff0060",
+//TODO: The command guide is a bar that shows up beside a command and its output when hovered.
+//	"terminalCommandGuide.foreground": "",
 		"terminalCursor.background": "#ffffff",
 		"terminalCursor.foreground": "#ff6a00",
 		"terminalOverviewRuler.cursorForeground": "#ff6a00",
