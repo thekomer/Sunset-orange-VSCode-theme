@@ -504,8 +504,7 @@
 		"terminalCommandDecoration.defaultBackground": "#bfc3cd60",
 		"terminalCommandDecoration.errorBackground": "#ff000080",
 		"terminalCommandDecoration.successBackground": "#00ff0060",
-//TODO: The command guide is a bar that shows up beside a command and its output when hovered.
-	"terminalCommandGuide.foreground": "#ced1d928",
+		"terminalCommandGuide.foreground": "#ced1d928",
 		"terminalCursor.background": "#ffffff",
 		"terminalCursor.foreground": "#ff6a00",
 		"terminalOverviewRuler.cursorForeground": "#ff6a00",
