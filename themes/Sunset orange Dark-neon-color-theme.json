@@ -500,6 +500,7 @@
 		"terminalCommandDecoration.defaultBackground": "#eef1f960",
 		"terminalCommandDecoration.errorBackground": "#ff000080",
 		"terminalCommandDecoration.successBackground": "#00ff0060",
+		"terminalCommandGuide.foreground": "#ced1d933",
 		"terminalCursor.background": "#ffffff",
 		"terminalCursor.foreground": "#ff6a00",
 		"terminalOverviewRuler.cursorForeground": "#ff6a00",
