@@ -91,7 +91,6 @@
 		"editor.findRangeHighlightBackground": "#bfc3cd18",
 		"editor.focusedStackFrameHighlightBackground": "#2ea04366",
 		"editor.foldBackground": "#06080d80",// "#bfc3cd14",
-		//TODO:
 		"editor.foldPlaceholderForeground": "#ced1d960",
 		"editor.foreground": "#ced1d9",
 		"editor.hoverHighlightBackground": "#bfc3cd38",
@@ -110,7 +109,8 @@
 		"editor.wordHighlightBorder": "#bfc3cd24",
 		"editor.wordHighlightStrongBackground": "#bfc3cd24",
 		"editor.wordHighlightStrongBorder": "#bfc3cd24",
-//TODO: The color of the action list control, such as the Code Action menu, can be configured. By default, the action list control theme matches that of the Quick Pick and Command Palette.
+//TODO: The color of the action list control, such as the Code Action menu, can be configured.
+// By default, the action list control theme matches that of the Quick Pick and Command Palette.
 //  "editorActionList.background": "",
 //	"editorActionList.foreground": "",
 //	"editorActionList.focusForeground": "",
@@ -511,6 +511,7 @@
 		"terminalOverviewRuler.cursorForeground": "#ff6a00",
 		"terminalOverviewRuler.findMatchForeground": "#005999b3",
 		"terminalStickyScroll.background": "#0a0d15",
+		"terminalStickyScrollHover.background": "#131727",
 		"textBlockQuote.background": "#06080d",
 		"textBlockQuote.border": "#bfc3cd20",
 		"textCodeBlock.background": "#6e76812a",
