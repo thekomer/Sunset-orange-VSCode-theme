@@ -8,6 +8,12 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
+- BUGfixes: terminal sticky-scroll hover background & hover button bg color
+
+- Improvement: new orange accent color compatible with my renewed GTK theme accent color (making better contrast with light fg and dark bg)
+
+- Improvements: terminal command guide more accented; Editor fold placeholder color consistent with the theme placeholder colors
+
 - Spelling fix in Readme file
 
 - added stickyScroll background
