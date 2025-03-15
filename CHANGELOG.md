@@ -8,6 +8,8 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
+- BUGFix: miltidiff editor colors
+
 - BUGfixes: terminal sticky-scroll hover background & hover button bg color
 
 - Improvement: new orange accent color compatible with my renewed GTK theme accent color (making better contrast with light fg and dark bg)
@@ -27,5 +29,3 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - BUGfix: scrollbars not visible enough
 
 - BUGfix: overview ruler error mark color color not distinguishable from added resource mark, error fg in neon version compatibility with the theme; Improvement: terminal color tweaks for compatibility with the theme
-
-- BUGfix: sticky scroll background not differentiable from the rest of editor background
