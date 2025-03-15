@@ -75,6 +75,9 @@
 		"diffEditor.removedLineBackground": "#f8514922",// "#da363322",
 		"diffEditor.removedTextBackground": "#f851495d",// "#da36334d",
 		"diffEditor.removedTextBorder": "#f8514900",
+		"diffEditor.unchangedRegionBackground": "#0a0d15",
+		"diffEditor.unchangedRegionForeground": "#bfc3cd80",
+		"diffEditor.unchangedCodeBackground": "#0E111D",
 		"diffEditorGutter.insertedLineBackground": "#2ea04300", // null,
 		"diffEditorGutter.removedLineBackground": "#f8514900",//null,
 		"diffEditorOverview.insertedForeground": "#2ea043a0",// null,
@@ -558,6 +561,7 @@
 		//"debugIcon.stepOutForeground": "#75beff",
 		//"debugIcon.stepOverForeground": "#75beff",
 		//"debugIcon.stopForeground": "#f48771",
+		//"diffEditor.unchangedRegionShadow": "#bfc3cd",
 		//"editor.inlineValuesBackground": "#00ff00", // "#ffc80033",
 		//"editor.inlineValuesForeground": "#ffffff80",
 		//! ------------------------------------------------------------------------

@@ -79,6 +79,9 @@
 		"diffEditorGutter.removedLineBackground": "#f8514900",
 		"diffEditorOverview.insertedForeground": "#2ea043a0",
 		"diffEditorOverview.removedForeground": "#f85149a0",
+		"diffEditor.unchangedRegionBackground": "#0a0d15",
+		"diffEditor.unchangedRegionForeground": "#bfc3cd80",
+		"diffEditor.unchangedCodeBackground": "#0E111D",
 		"disabledForeground": "#BFC3CD80",
 		"dropdown.background": "#131727",
 		"dropdown.border": "#bfc3cd18",
@@ -554,6 +557,7 @@
 		//"debugIcon.stepOutForeground": "#75beff",
 		//"debugIcon.stepOverForeground": "#75beff",
 		//"debugIcon.stopForeground": "#f48771",
+		//"diffEditor.unchangedRegionShadow": "#bfc3cd",
 		//"editor.inlineValuesBackground": "#ffc80033",
 		//"editor.inlineValuesForeground": "#ffffff80",
 		//! ------------------------------------------------------------------------
