@@ -287,9 +287,9 @@
 		"menubar.selectionBackground": "#0E111D",
 		"menubar.selectionForeground": "#ffffff",
 		"minimap.background": "#ffffff06",
-		"minimap.findMatchHighlight": "#005999",
+		"minimap.findMatchHighlight": "#005999fe", // added fake transparency to remove problem info
 		"minimap.foregroundOpacity": "#000000b0",
-		"minimap.selectionHighlight": "#cc3700",
+		"minimap.selectionHighlight": "#cc3700fe", // added fake transparency to remove problem info
 		"minimap.errorHighlight": "#ff1212",
 		"minimap.selectionOccurrenceHighlight": "#00599940",
 		"minimap.warningHighlight": "#cca700",
@@ -502,7 +502,7 @@
 		"terminal.ansiYellow": "#d2bb22",
 		"terminal.background": "#0E111D",
 		"terminal.border": "#bfc3cd10",
-		"terminal.findMatchBackground": "#005999",
+		"terminal.findMatchBackground": "#005999fe", // added fake transparency to remove problem info
 		"terminal.findMatchHighlightBackground": "#00599980",
 		"terminal.foreground": "#bfc3cd",
 		"terminal.dropBackground": "#cc370030",
