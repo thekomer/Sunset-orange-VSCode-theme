@@ -8,6 +8,8 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
+- Improvement: added support for Quick diff decorations for staged changes (introduced in Vscode 1.100)
+
 - BUGFix: miltidiff editor colors
 
 - BUGfixes: terminal sticky-scroll hover background & hover button bg color
