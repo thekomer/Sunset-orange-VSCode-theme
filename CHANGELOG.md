@@ -31,3 +31,4 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - BUGfix: scrollbars not visible enough
 
 - BUGfix: overview ruler error mark color color not distinguishable from added resource mark, error fg in neon version compatibility with the theme; Improvement: terminal color tweaks for compatibility with the theme
+- Improvement: making codelens color inside editor less distracting (focus on code, not on codelens)
