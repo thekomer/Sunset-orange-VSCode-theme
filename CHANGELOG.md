@@ -8,6 +8,8 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
+- Improvement: making terminal colors more neon-like in neon theme (will be refined later on)
+
 - BUGfix: extension button colors to be accented as intended
 
 - Improvement: added support for Quick diff decorations for staged changes (introduced in Vscode 1.100)
@@ -25,12 +27,3 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - added stickyScroll background
 
 - New entry: textPreformat.background color in VSCode v1.84.0
-
-- Improvements: cleaning out deprecated names and size down package
-
-- Improvement: Quick picker input group label color
-
-- BUGfix: scrollbars not visible enough
-
-- BUGfix: overview ruler error mark color color not distinguishable from added resource mark, error fg in neon version compatibility with the theme; Improvement: terminal color tweaks for compatibility with the theme
-- Improvement: making codelens color inside editor less distracting (focus on code, not on codelens)
