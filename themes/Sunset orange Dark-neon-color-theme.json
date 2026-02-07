@@ -133,6 +133,7 @@
     "editorBracketPairGuide.background6": "#9D00FF80",
     "editorBracketMatch.background": "#000000",
     "editorBracketMatch.border": "#00ff00bb",
+    "editorBracketMatch.foreground": "#ffffff",
     "editorCodeLens.foreground": "#a1b8d655",
     "editorCursor.background": "#ffffff",
     "editorCursor.foreground": "#cc4500",

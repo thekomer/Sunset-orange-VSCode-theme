@@ -8,6 +8,8 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 ## [Latest 10 changes]
 
+- New entry: added editorBracketMatch.foreground to be pure white (supported since VSCode 1,109)
+
 - Improvement: making terminal colors more neon-like in neon theme (will be refined later on)
 
 - BUGfix: extension button colors to be accented as intended
@@ -25,5 +27,3 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Spelling fix in Readme file
 
 - added stickyScroll background
-
-- New entry: textPreformat.background color in VSCode v1.84.0
