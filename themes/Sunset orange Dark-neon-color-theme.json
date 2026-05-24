@@ -287,6 +287,7 @@
     "listFilterWidget.background": "#0E111D",
     "listFilterWidget.shadow": "#bfc3cd20",
     "menu.background": "#06080dd9",
+    "menu.border": "#bfc3cd10",
     "menu.foreground": "#b8bdc8",
     "menu.selectionBackground": "#cc3700d9",
     "menu.selectionForeground": "#ffffff",

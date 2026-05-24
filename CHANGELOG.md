@@ -6,7 +6,9 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 
 - Check [Github commit list](https://github.com/thekomer/Sunset-orange-VSCode-theme/commits/master) for more information.
 
-## [Latest 10 changes]
+## [Latest 10 changes in reverse order]
+
+- Improvement: subtle menu border added for better legibility on sidebar that's in similar color
 
 - New entry: added editorBracketMatch.foreground to be pure white (supported since VSCode 1,109)
 
@@ -25,5 +27,3 @@ All notable changes to the "sunset-orange-dark" extension will be documented on 
 - Improvements: terminal command guide more accented; Editor fold placeholder color consistent with the theme placeholder colors
 
 - Spelling fix in Readme file
-
-- added stickyScroll background
