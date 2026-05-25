@@ -40,7 +40,8 @@ jobs:
         if: steps.check_version.outputs.is_version == 'true'
         run: npm install -g vsce && vsce package
 
-      # Uploads the package to and creates release
+      # Loads action that Uploads the package to and creates release
+      # with vsix file, source code and changelog
       # (if commit contains only version number)
       - name: Create GitHub Release
         if: steps.check_version.outputs.is_version == 'true'
