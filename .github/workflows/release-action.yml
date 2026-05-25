@@ -1,0 +1,54 @@
+name: Release theme after new version commit
+
+# Execute on every push to the master branch
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  release:
+    # run on ubuntu-latest container
+    runs-on: ubuntu-latest
+
+    steps:
+      # loads action that downloads repository code into the GitHub Actions
+      # runner
+      - uses: actions/checkout@v4
+
+      # Checks if commit message contains only version number
+      - name: Check if version commit
+        id: check_version
+        run: |
+          COMMIT_MSG="${{ github.event.head_commit.message }}"
+          if [[ $COMMIT_MSG =~ ^[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
+            echo "is_version=true" >> $GITHUB_OUTPUT
+          else
+            echo "is_version=false" >> $GITHUB_OUTPUT
+          fi
+
+      # Load Node v20
+      # (if commit contains only version number)
+      - uses: actions/setup-node@v4
+        if: steps.check_version.outputs.is_version == 'true'
+        with:
+          node-version: '20'
+
+      # install vsce and builds the package
+      # (if commit contains only version number)
+      - name: Install vsce and create package
+        if: steps.check_version.outputs.is_version == 'true'
+        run: npm install -g vsce && vsce package
+
+      # Loads action that Uploads the package to and creates release
+      # with vsix file, source code and changelog
+      # (if commit contains only version number)
+      - name: Create GitHub Release
+        if: steps.check_version.outputs.is_version == 'true'
+        uses: softprops/action-gh-release@v1
+        with:
+          files: '*.vsix'
+          generate_release_notes: true
+          tag_name: v${{ github.event.head_commit.message }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
